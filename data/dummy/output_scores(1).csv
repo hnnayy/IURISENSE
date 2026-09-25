@@ -1,0 +1,1021 @@
+rank,employer_id,sektor,wilayah,skala,status_A,score_A,status_B,score_B,status_C,score_C,coverage,composite_score,max_module_score,n_flags,band,summary
+1,EMP-0492,Perdagangan & Ritel,Sulawesi Selatan,Besar,FLAGGED,1.0,NORMAL,0.252,ONE_OFF_GAP,0.49,3,0.581,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 48% (506→261) pada 2025-06, hanya 1 resign tercatat."
+2,EMP-0963,Perkebunan & Agribisnis,Sumatera Utara,Menengah,FLAGGED,1.0,NORMAL,0.209,ONE_OFF_GAP,0.49,3,0.566,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 32% (206→140) pada 2025-06, hanya 1 resign tercatat."
+3,EMP-0150,Manufaktur,Sulawesi Selatan,Menengah,FLAGGED,1.0,NORMAL,0.121,ONE_OFF_GAP,0.49,3,0.537,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 48% (184→95) pada 2025-09, hanya 1 resign tercatat."
+4,EMP-0415,Perdagangan & Ritel,Jawa Timur,Kecil,FLAGGED,1.0,NORMAL,0.086,ONE_OFF_GAP,0.49,3,0.525,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 50% (56→28) pada 2025-08, hanya 1 resign tercatat."
+5,EMP-0317,Konstruksi,Sulawesi Selatan,Kecil,FLAGGED,1.0,NORMAL,0.043,ONE_OFF_GAP,0.49,3,0.511,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 38% (47→29) pada 2025-09, tidak ada resign record yang cocok."
+6,EMP-0114,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,FLAGGED,1.0,ONE_OFF_GAP,0.49,3,0.497,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 38% di bawah median cohort sektor Manufaktur, wilayah Sumatera Utara, skala Kecil."
+7,EMP-0211,Konstruksi,Jawa Barat,Kecil,FLAGGED,1.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.497,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 35% (31→20) pada 2025-08, tidak ada resign record yang cocok."
+8,EMP-0362,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,FLAGGED,1.0,ONE_OFF_GAP,0.49,3,0.497,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 32% di bawah median cohort sektor Perdagangan & Ritel, wilayah DKI Jakarta, skala Menengah."
+9,EMP-0373,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,FLAGGED,1.0,ONE_OFF_GAP,0.49,3,0.497,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 33% di bawah median cohort sektor Perdagangan & Ritel, wilayah DKI Jakarta, skala Menengah."
+10,EMP-0436,Perdagangan & Ritel,Jawa Timur,Kecil,FLAGGED,1.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.497,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 54% (24→11) pada 2025-07, hanya 1 resign tercatat."
+11,EMP-0473,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,FLAGGED,1.0,ONE_OFF_GAP,0.49,3,0.497,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 39% di bawah median cohort sektor Perdagangan & Ritel, wilayah Sumatera Utara, skala Menengah."
+12,EMP-0500,Perdagangan & Ritel,Sulawesi Selatan,Besar,FLAGGED,1.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.497,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 51% (776→377) pada 2025-09, hanya 1 resign tercatat."
+13,EMP-0632,Jasa Keuangan,Sumatera Utara,Kecil,FLAGGED,1.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.497,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 37% (52→33) pada 2025-09, tidak ada resign record yang cocok."
+14,EMP-0738,Teknologi & Digital,Jawa Barat,Kecil,FLAGGED,1.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.497,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 52% (56→27) pada 2025-07, hanya 1 resign tercatat."
+15,EMP-0817,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,FLAGGED,1.0,ONE_OFF_GAP,0.49,3,0.497,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 36% di bawah median cohort sektor Teknologi & Digital, wilayah Sulawesi Selatan, skala Kecil."
+16,EMP-0960,Perkebunan & Agribisnis,Sumatera Utara,Menengah,FLAGGED,1.0,NORMAL,0.26,NORMAL,0.0,3,0.42,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 34% (116→76) pada 2025-08, tidak ada resign record yang cocok."
+17,EMP-0299,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NORMAL,0.218,FLAGGED,1.0,3,0.406,1.0,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 27% di bawah seharusnya selama 5 bulan berturut-turut (2025-08 s/d 2025-12).
+18,EMP-0462,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.206,FLAGGED,1.0,3,0.402,1.0,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 30% di bawah seharusnya selama 8 bulan berturut-turut (2025-05 s/d 2025-12).
+19,EMP-0178,Konstruksi,DKI Jakarta,Besar,FLAGGED,1.0,NORMAL,0.178,NORMAL,0.0,3,0.393,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 32% (761→514) pada 2025-09, hanya 1 resign tercatat."
+20,EMP-0437,Perdagangan & Ritel,Jawa Timur,Kecil,FLAGGED,1.0,NORMAL,0.06,NORMAL,0.0,3,0.353,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 39% (49→30) pada 2025-08, hanya 1 resign tercatat."
+21,EMP-0361,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.025,FLAGGED,1.0,3,0.342,1.0,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 28% di bawah seharusnya selama 4 bulan berturut-turut (2025-09 s/d 2025-12).
+22,EMP-0054,Manufaktur,Jawa Barat,Menengah,FLAGGED,1.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 43% (197→113) pada 2025-08, tidak ada resign record yang cocok."
+23,EMP-0065,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,FLAGGED,1.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 32% di bawah median cohort sektor Manufaktur, wilayah Jawa Barat, skala Menengah."
+24,EMP-0194,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,FLAGGED,1.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 31% di bawah median cohort sektor Konstruksi, wilayah DKI Jakarta, skala Besar."
+25,EMP-0199,Konstruksi,DKI Jakarta,Besar,FLAGGED,1.0,NORMAL,0.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 37% (571→361) pada 2025-08, tidak ada resign record yang cocok."
+26,EMP-0214,Konstruksi,Jawa Barat,Kecil,FLAGGED,1.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 45% (22→12) pada 2025-07, hanya 1 resign tercatat."
+27,EMP-0222,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,FLAGGED,1.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 38% di bawah median cohort sektor Konstruksi, wilayah Jawa Barat, skala Kecil."
+28,EMP-0248,Konstruksi,Jawa Timur,Menengah,FLAGGED,1.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 44% (118→66) pada 2025-09, tidak ada resign record yang cocok."
+29,EMP-0303,Konstruksi,Sumatera Utara,Besar,FLAGGED,1.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 40% (307→183) pada 2025-08, hanya 1 resign tercatat."
+30,EMP-0355,Perdagangan & Ritel,DKI Jakarta,Menengah,FLAGGED,1.0,NORMAL,0.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 33% (177→118) pada 2025-07, hanya 1 resign tercatat."
+31,EMP-0393,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,1.0,3,0.333,1.0,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 27% di bawah seharusnya selama 7 bulan berturut-turut (2025-06 s/d 2025-12).
+32,EMP-0399,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,1.0,3,0.333,1.0,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 27% di bawah seharusnya selama 8 bulan berturut-turut (2025-05 s/d 2025-12).
+33,EMP-0419,Perdagangan & Ritel,Jawa Timur,Kecil,FLAGGED,1.0,NORMAL,0.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 47% (34→18) pada 2025-06, hanya 1 resign tercatat."
+34,EMP-0478,Perdagangan & Ritel,Sulawesi Selatan,Besar,FLAGGED,1.0,NORMAL,0.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 47% (316→168) pada 2025-06, hanya 1 resign tercatat."
+35,EMP-0516,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,FLAGGED,1.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 39% di bawah median cohort sektor Jasa Keuangan, wilayah DKI Jakarta, skala Kecil."
+36,EMP-0528,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,FLAGGED,1.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 27% di bawah median cohort sektor Jasa Keuangan, wilayah DKI Jakarta, skala Kecil."
+37,EMP-0580,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,1.0,3,0.333,1.0,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 30% di bawah seharusnya selama 5 bulan berturut-turut (2025-08 s/d 2025-12).
+38,EMP-0600,Jasa Keuangan,Jawa Timur,Besar,FLAGGED,1.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 40% (687→415) pada 2025-06, tidak ada resign record yang cocok."
+39,EMP-0623,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,FLAGGED,1.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 36% di bawah median cohort sektor Jasa Keuangan, wilayah Sumatera Utara, skala Kecil."
+40,EMP-0633,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,FLAGGED,1.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 27% di bawah median cohort sektor Jasa Keuangan, wilayah Sumatera Utara, skala Kecil."
+41,EMP-0648,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,1.0,3,0.333,1.0,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 27% di bawah seharusnya selama 5 bulan berturut-turut (2025-08 s/d 2025-12).
+42,EMP-0650,Jasa Keuangan,Sulawesi Selatan,Menengah,FLAGGED,1.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 37% (134→84) pada 2025-06, tidak ada resign record yang cocok."
+43,EMP-0679,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,1.0,3,0.333,1.0,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 29% di bawah seharusnya selama 3 bulan berturut-turut (2025-10 s/d 2025-12).
+44,EMP-0806,Teknologi & Digital,Sumatera Utara,Besar,FLAGGED,1.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 46% (904→488) pada 2025-08, hanya 1 resign tercatat."
+45,EMP-0830,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,FLAGGED,1.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 31% di bawah median cohort sektor Teknologi & Digital, wilayah Sulawesi Selatan, skala Kecil."
+46,EMP-0851,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,FLAGGED,1.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 29% di bawah median cohort sektor Perkebunan & Agribisnis, wilayah DKI Jakarta, skala Menengah."
+47,EMP-0853,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,FLAGGED,1.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 33% di bawah median cohort sektor Perkebunan & Agribisnis, wilayah DKI Jakarta, skala Menengah."
+48,EMP-0857,Perkebunan & Agribisnis,DKI Jakarta,Menengah,FLAGGED,1.0,NORMAL,0.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Headcount turun 48% (93→48) pada 2025-09, hanya 1 resign tercatat."
+49,EMP-0895,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,FLAGGED,1.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 37% di bawah median cohort sektor Perkebunan & Agribisnis, wilayah Jawa Barat, skala Besar."
+50,EMP-0896,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,FLAGGED,1.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 32% di bawah median cohort sektor Perkebunan & Agribisnis, wilayah Jawa Barat, skala Besar."
+51,EMP-0939,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,FLAGGED,1.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 37% di bawah median cohort sektor Perkebunan & Agribisnis, wilayah Jawa Timur, skala Kecil."
+52,EMP-0954,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,FLAGGED,1.0,NORMAL,0.0,3,0.333,1.0,1,Tinggi,"Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Upah 28% di bawah median cohort sektor Perkebunan & Agribisnis, wilayah Sumatera Utara, skala Menengah."
+53,EMP-0039,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,0.992,3,0.331,0.992,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 25% di bawah seharusnya selama 6 bulan berturut-turut (2025-07 s/d 2025-12).
+54,EMP-0698,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,0.991,3,0.33,0.991,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 25% di bawah seharusnya selama 4 bulan berturut-turut (2025-09 s/d 2025-12).
+55,EMP-0354,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.105,FLAGGED,0.969,3,0.358,0.969,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 24% di bawah seharusnya selama 4 bulan berturut-turut (2025-09 s/d 2025-12).
+56,EMP-0387,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,0.949,3,0.316,0.949,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 23% di bawah seharusnya selama 6 bulan berturut-turut (2025-07 s/d 2025-12).
+57,EMP-0017,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,FLAGGED,0.939,3,0.313,0.939,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 22% di bawah seharusnya selama 3 bulan berturut-turut (2025-10 s/d 2025-12).
+58,EMP-0684,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,0.935,3,0.312,0.935,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 22% di bawah seharusnya selama 5 bulan berturut-turut (2025-08 s/d 2025-12).
+59,EMP-0595,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,0.924,3,0.308,0.924,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 21% di bawah seharusnya selama 7 bulan berturut-turut (2025-06 s/d 2025-12).
+60,EMP-0431,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,FLAGGED,0.895,3,0.298,0.895,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 20% di bawah seharusnya selama 4 bulan berturut-turut (2025-09 s/d 2025-12).
+61,EMP-0350,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.177,FLAGGED,0.86,3,0.346,0.86,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 19% di bawah seharusnya selama 7 bulan berturut-turut (2025-06 s/d 2025-12).
+62,EMP-0887,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,0.856,3,0.285,0.856,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 18% di bawah seharusnya selama 3 bulan berturut-turut (2025-10 s/d 2025-12).
+63,EMP-0915,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,0.839,3,0.28,0.839,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 18% di bawah seharusnya selama 3 bulan berturut-turut (2025-10 s/d 2025-12).
+64,EMP-0077,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,0.835,3,0.278,0.835,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 17% di bawah seharusnya selama 7 bulan berturut-turut (2025-06 s/d 2025-12).
+65,EMP-0561,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,0.832,3,0.277,0.832,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 17% di bawah seharusnya selama 4 bulan berturut-turut (2025-09 s/d 2025-12).
+66,EMP-0230,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,0.825,3,0.275,0.825,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 17% di bawah seharusnya selama 4 bulan berturut-turut (2025-09 s/d 2025-12).
+67,EMP-0002,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,FLAGGED,0.807,3,0.269,0.807,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 16% di bawah seharusnya selama 4 bulan berturut-turut (2025-09 s/d 2025-12).
+68,EMP-0006,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.175,FLAGGED,0.804,3,0.326,0.804,1,Tinggi,Prioritas tinggi — 1 dari 3 modul menunjukkan indikasi: Setoran 16% di bawah seharusnya selama 8 bulan berturut-turut (2025-05 s/d 2025-12).
+69,EMP-0189,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,FLAGGED,0.791,3,0.264,0.791,1,Sedang,Prioritas sedang — 1 dari 3 modul menunjukkan indikasi: Setoran 15% di bawah seharusnya selama 5 bulan berturut-turut (2025-08 s/d 2025-12).
+70,EMP-0838,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,0.522,3,0.174,0.522,1,Sedang,Prioritas sedang — 1 dari 3 modul menunjukkan indikasi: Setoran 3% di bawah seharusnya selama 2 bulan berturut-turut (2025-01 s/d 2025-02).
+71,EMP-0994,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.239,FLAGGED,0.518,3,0.252,0.518,1,Sedang,Prioritas sedang — 1 dari 3 modul menunjukkan indikasi: Setoran 3% di bawah seharusnya selama 2 bulan berturut-turut (2025-06 s/d 2025-07).
+72,EMP-0568,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,0.513,3,0.171,0.513,1,Sedang,Prioritas sedang — 1 dari 3 modul menunjukkan indikasi: Setoran 3% di bawah seharusnya selama 2 bulan berturut-turut (2025-01 s/d 2025-02).
+73,EMP-0195,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.006,FLAGGED,0.512,3,0.173,0.512,1,Sedang,Prioritas sedang — 1 dari 3 modul menunjukkan indikasi: Setoran 3% di bawah seharusnya selama 2 bulan berturut-turut (2025-04 s/d 2025-05).
+74,EMP-0614,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,0.509,3,0.17,0.509,1,Sedang,Prioritas sedang — 1 dari 3 modul menunjukkan indikasi: Setoran 2% di bawah seharusnya selama 2 bulan berturut-turut (2025-03 s/d 2025-04).
+75,EMP-0606,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,0.507,3,0.169,0.507,1,Sedang,Prioritas sedang — 1 dari 3 modul menunjukkan indikasi: Setoran 2% di bawah seharusnya selama 2 bulan berturut-turut (2025-03 s/d 2025-04).
+76,EMP-0870,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,FLAGGED,0.505,3,0.168,0.505,1,Sedang,Prioritas sedang — 1 dari 3 modul menunjukkan indikasi: Setoran 2% di bawah seharusnya selama 2 bulan berturut-turut (2025-11 s/d 2025-12).
+77,EMP-0479,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,FLAGGED,0.504,3,0.168,0.504,1,Sedang,Prioritas sedang — 1 dari 3 modul menunjukkan indikasi: Setoran 2% di bawah seharusnya selama 2 bulan berturut-turut (2025-02 s/d 2025-03).
+78,EMP-0856,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.164,FLAGGED,0.502,3,0.222,0.502,1,Sedang,Prioritas sedang — 1 dari 3 modul menunjukkan indikasi: Setoran 2% di bawah seharusnya selama 2 bulan berturut-turut (2025-10 s/d 2025-11).
+79,EMP-0210,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,FLAGGED,0.502,3,0.167,0.502,1,Sedang,Prioritas sedang — 1 dari 3 modul menunjukkan indikasi: Setoran 2% di bawah seharusnya selama 2 bulan berturut-turut (2025-01 s/d 2025-02).
+80,EMP-0133,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.355,ONE_OFF_GAP,0.49,3,0.282,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+81,EMP-0943,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.34,ONE_OFF_GAP,0.49,3,0.277,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+82,EMP-0947,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.321,ONE_OFF_GAP,0.49,3,0.27,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+83,EMP-0360,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.318,ONE_OFF_GAP,0.49,3,0.269,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+84,EMP-1018,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.302,ONE_OFF_GAP,0.49,3,0.264,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+85,EMP-0922,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.287,ONE_OFF_GAP,0.49,3,0.259,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+86,EMP-0935,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.281,ONE_OFF_GAP,0.49,3,0.257,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+87,EMP-0166,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.274,ONE_OFF_GAP,0.49,3,0.255,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+88,EMP-0980,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.273,ONE_OFF_GAP,0.49,3,0.254,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+89,EMP-0327,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.269,ONE_OFF_GAP,0.49,3,0.253,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+90,EMP-0421,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.267,ONE_OFF_GAP,0.49,3,0.252,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+91,EMP-0169,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.256,ONE_OFF_GAP,0.49,3,0.249,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+92,EMP-0869,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.251,ONE_OFF_GAP,0.49,3,0.247,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+93,EMP-0186,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.241,ONE_OFF_GAP,0.49,3,0.244,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+94,EMP-0198,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.239,ONE_OFF_GAP,0.49,3,0.243,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+95,EMP-0031,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.224,ONE_OFF_GAP,0.49,3,0.238,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+96,EMP-0423,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.224,ONE_OFF_GAP,0.49,3,0.238,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+97,EMP-0028,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.211,ONE_OFF_GAP,0.49,3,0.234,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+98,EMP-0335,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.213,ONE_OFF_GAP,0.49,3,0.234,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+99,EMP-0139,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.209,ONE_OFF_GAP,0.49,3,0.233,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+100,EMP-0174,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.2,ONE_OFF_GAP,0.49,3,0.23,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+101,EMP-0884,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.2,ONE_OFF_GAP,0.49,3,0.23,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+102,EMP-0995,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.194,ONE_OFF_GAP,0.49,3,0.228,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+103,EMP-0457,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.19,ONE_OFF_GAP,0.49,3,0.227,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+104,EMP-0440,Perdagangan & Ritel,Jawa Timur,Kecil,EXPLAINED_BY_RESIGN,0.0,NORMAL,0.178,ONE_OFF_GAP,0.49,3,0.223,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+105,EMP-0106,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.17,ONE_OFF_GAP,0.49,3,0.22,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+106,EMP-0957,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.161,ONE_OFF_GAP,0.49,3,0.217,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+107,EMP-0860,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.157,ONE_OFF_GAP,0.49,3,0.216,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+108,EMP-0203,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.155,ONE_OFF_GAP,0.49,3,0.215,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+109,EMP-0125,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.152,ONE_OFF_GAP,0.49,3,0.214,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+110,EMP-0122,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.148,ONE_OFF_GAP,0.49,3,0.213,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+111,EMP-0283,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NORMAL,0.148,ONE_OFF_GAP,0.49,3,0.213,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+112,EMP-0867,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.139,ONE_OFF_GAP,0.49,3,0.21,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+113,EMP-0185,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.132,ONE_OFF_GAP,0.49,3,0.207,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+114,EMP-0968,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.119,ONE_OFF_GAP,0.49,3,0.203,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+115,EMP-0983,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.12,ONE_OFF_GAP,0.49,3,0.203,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+116,EMP-0296,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NORMAL,0.117,ONE_OFF_GAP,0.49,3,0.202,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+117,EMP-0974,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.111,ONE_OFF_GAP,0.49,3,0.2,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+118,EMP-0460,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.097,ONE_OFF_GAP,0.49,3,0.196,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+119,EMP-0279,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NORMAL,0.086,ONE_OFF_GAP,0.49,3,0.192,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+120,EMP-0854,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.082,ONE_OFF_GAP,0.49,3,0.191,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+121,EMP-1017,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,EXPLAINED_BY_RESIGN,0.0,NORMAL,0.078,ONE_OFF_GAP,0.49,3,0.189,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+122,EMP-0127,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.074,ONE_OFF_GAP,0.49,3,0.188,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+123,EMP-0193,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.074,ONE_OFF_GAP,0.49,3,0.188,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+124,EMP-0115,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.07,ONE_OFF_GAP,0.49,3,0.187,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+125,EMP-0470,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.055,ONE_OFF_GAP,0.49,3,0.182,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+126,EMP-0146,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.048,ONE_OFF_GAP,0.49,3,0.179,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+127,EMP-0921,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.044,ONE_OFF_GAP,0.49,3,0.178,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+128,EMP-0874,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.031,ONE_OFF_GAP,0.49,3,0.174,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+129,EMP-1001,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.029,ONE_OFF_GAP,0.49,3,0.173,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+130,EMP-0182,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.019,ONE_OFF_GAP,0.49,3,0.17,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+131,EMP-0197,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.013,ONE_OFF_GAP,0.49,3,0.168,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+132,EMP-0129,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.004,ONE_OFF_GAP,0.49,3,0.165,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+133,EMP-0416,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.004,ONE_OFF_GAP,0.49,3,0.165,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+134,EMP-0116,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.002,ONE_OFF_GAP,0.49,3,0.164,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+135,EMP-0319,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.002,ONE_OFF_GAP,0.49,3,0.164,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+136,EMP-0456,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.002,ONE_OFF_GAP,0.49,3,0.164,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+137,EMP-0868,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.002,ONE_OFF_GAP,0.49,3,0.164,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+138,EMP-0010,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+139,EMP-0015,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+140,EMP-0024,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+141,EMP-0035,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+142,EMP-0043,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+143,EMP-0048,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+144,EMP-0052,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+145,EMP-0053,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+146,EMP-0060,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+147,EMP-0072,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+148,EMP-0073,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+149,EMP-0074,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+150,EMP-0076,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+151,EMP-0078,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+152,EMP-0080,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+153,EMP-0088,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+154,EMP-0090,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+155,EMP-0092,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+156,EMP-0094,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+157,EMP-0099,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+158,EMP-0100,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+159,EMP-0102,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+160,EMP-0108,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+161,EMP-0117,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+162,EMP-0140,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+163,EMP-0143,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+164,EMP-0151,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+165,EMP-0152,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+166,EMP-0162,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+167,EMP-0164,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+168,EMP-0168,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+169,EMP-0179,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+170,EMP-0181,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+171,EMP-0188,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+172,EMP-0192,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+173,EMP-0204,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+174,EMP-0209,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+175,EMP-0213,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+176,EMP-0218,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+177,EMP-0220,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+178,EMP-0228,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+179,EMP-0233,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+180,EMP-0234,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+181,EMP-0239,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+182,EMP-0241,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+183,EMP-0243,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+184,EMP-0244,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+185,EMP-0245,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+186,EMP-0252,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+187,EMP-0264,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+188,EMP-0265,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+189,EMP-0266,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+190,EMP-0277,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+191,EMP-0281,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+192,EMP-0284,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+193,EMP-0288,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+194,EMP-0289,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+195,EMP-0294,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+196,EMP-0298,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+197,EMP-0312,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+198,EMP-0314,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+199,EMP-0318,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+200,EMP-0320,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+201,EMP-0325,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+202,EMP-0329,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+203,EMP-0340,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+204,EMP-0341,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+205,EMP-0346,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+206,EMP-0367,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+207,EMP-0369,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,-0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+208,EMP-0371,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+209,EMP-0376,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+210,EMP-0379,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+211,EMP-0382,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+212,EMP-0386,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+213,EMP-0388,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+214,EMP-0395,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+215,EMP-0396,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+216,EMP-0405,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+217,EMP-0406,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+218,EMP-0409,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+219,EMP-0438,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+220,EMP-0444,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+221,EMP-0447,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+222,EMP-0455,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+223,EMP-0459,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+224,EMP-0464,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+225,EMP-0466,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+226,EMP-0469,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+227,EMP-0474,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+228,EMP-0485,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+229,EMP-0504,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+230,EMP-0512,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+231,EMP-0541,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+232,EMP-0542,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+233,EMP-0548,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+234,EMP-0552,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+235,EMP-0555,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+236,EMP-0556,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+237,EMP-0557,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+238,EMP-0559,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+239,EMP-0569,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+240,EMP-0571,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+241,EMP-0572,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+242,EMP-0573,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+243,EMP-0586,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+244,EMP-0588,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+245,EMP-0589,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+246,EMP-0593,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+247,EMP-0596,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+248,EMP-0597,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+249,EMP-0615,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+250,EMP-0616,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+251,EMP-0619,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+252,EMP-0622,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+253,EMP-0628,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+254,EMP-0629,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+255,EMP-0635,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+256,EMP-0654,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+257,EMP-0655,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+258,EMP-0657,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+259,EMP-0663,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+260,EMP-0664,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+261,EMP-0666,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+262,EMP-0669,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+263,EMP-0671,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+264,EMP-0676,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+265,EMP-0678,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+266,EMP-0680,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+267,EMP-0681,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+268,EMP-0682,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+269,EMP-0683,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+270,EMP-0685,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+271,EMP-0688,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+272,EMP-0691,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+273,EMP-0692,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+274,EMP-0694,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+275,EMP-0706,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+276,EMP-0707,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+277,EMP-0708,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+278,EMP-0710,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+279,EMP-0718,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+280,EMP-0722,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+281,EMP-0723,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+282,EMP-0724,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+283,EMP-0727,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+284,EMP-0731,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+285,EMP-0736,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+286,EMP-0742,Teknologi & Digital,Jawa Barat,Kecil,EXPLAINED_BY_RESIGN,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+287,EMP-0744,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+288,EMP-0749,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+289,EMP-0752,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+290,EMP-0763,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+291,EMP-0765,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+292,EMP-0768,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+293,EMP-0785,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+294,EMP-0787,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+295,EMP-0794,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+296,EMP-0796,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+297,EMP-0797,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+298,EMP-0799,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+299,EMP-0801,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+300,EMP-0812,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+301,EMP-0818,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+302,EMP-0821,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+303,EMP-0823,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+304,EMP-0826,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+305,EMP-0829,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+306,EMP-0836,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+307,EMP-0840,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+308,EMP-0841,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+309,EMP-0843,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+310,EMP-0844,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+311,EMP-0846,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+312,EMP-0850,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+313,EMP-0861,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+314,EMP-0893,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+315,EMP-0911,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+316,EMP-0917,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+317,EMP-0925,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+318,EMP-0929,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+319,EMP-0936,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+320,EMP-0940,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+321,EMP-0944,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+322,EMP-0955,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+323,EMP-0961,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+324,EMP-0967,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+325,EMP-0969,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+326,EMP-0972,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+327,EMP-0973,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+328,EMP-0977,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+329,EMP-0978,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+330,EMP-0982,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+331,EMP-0988,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+332,EMP-1000,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+333,EMP-1020,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,ONE_OFF_GAP,0.49,3,0.163,0.49,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+334,EMP-0494,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.411,NORMAL,0.0,3,0.137,0.411,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+335,EMP-0123,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.391,NORMAL,0.0,3,0.13,0.391,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+336,EMP-0992,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.376,NORMAL,0.0,3,0.125,0.376,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+337,EMP-0422,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.364,NORMAL,0.0,3,0.121,0.364,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+338,EMP-0135,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.343,NORMAL,0.0,3,0.114,0.343,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+339,EMP-0364,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.335,NORMAL,0.0,3,0.112,0.335,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+340,EMP-0477,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.334,NORMAL,0.0,3,0.111,0.334,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+341,EMP-0941,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.317,NORMAL,0.0,3,0.106,0.317,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+342,EMP-0986,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.314,NORMAL,0.0,3,0.105,0.314,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+343,EMP-0336,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.303,NORMAL,0.0,3,0.101,0.303,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+344,EMP-0148,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.295,NORMAL,0.0,3,0.098,0.295,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+345,EMP-0105,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.292,NORMAL,0.0,3,0.097,0.292,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+346,EMP-0424,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.288,NORMAL,0.0,3,0.096,0.288,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+347,EMP-0334,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.286,NORMAL,0.0,3,0.095,0.286,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+348,EMP-0177,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.283,NORMAL,0.0,3,0.094,0.283,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+349,EMP-0328,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.278,NORMAL,0.0,3,0.093,0.278,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+350,EMP-0109,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.277,NORMAL,0.0,3,0.092,0.277,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+351,EMP-0280,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NORMAL,0.277,NORMAL,0.0,3,0.092,0.277,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+352,EMP-0021,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.276,NORMAL,0.0,3,0.092,0.276,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+353,EMP-0435,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.276,NORMAL,0.0,3,0.092,0.276,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+354,EMP-0953,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.272,NORMAL,0.0,3,0.091,0.272,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+355,EMP-0537,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.271,NORMAL,0.0,3,0.09,0.271,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+356,EMP-0003,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.267,NORMAL,0.0,3,0.089,0.267,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+357,EMP-1019,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.262,NORMAL,0.0,3,0.087,0.262,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+358,EMP-0297,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NORMAL,0.26,NORMAL,0.0,3,0.087,0.26,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+359,EMP-0490,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.254,NORMAL,0.0,3,0.085,0.254,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+360,EMP-0370,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.252,NORMAL,0.0,3,0.084,0.252,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+361,EMP-1011,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.252,NORMAL,0.0,3,0.084,0.252,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+362,EMP-0286,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NORMAL,0.251,NORMAL,0.0,3,0.084,0.251,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+363,EMP-0521,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.251,NORMAL,0.0,3,0.084,0.251,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+364,EMP-0278,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NORMAL,0.249,NORMAL,0.0,3,0.083,0.249,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+365,EMP-0428,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.247,NORMAL,0.0,3,0.082,0.247,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+366,EMP-0476,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.245,NORMAL,0.0,3,0.082,0.245,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+367,EMP-0119,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.243,NORMAL,0.0,3,0.081,0.243,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+368,EMP-0468,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.241,NORMAL,0.0,3,0.08,0.241,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+369,EMP-0540,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.241,NORMAL,0.0,3,0.08,0.241,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+370,EMP-0322,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.239,NORMAL,0.0,3,0.08,0.239,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+371,EMP-0873,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.237,NORMAL,0.0,3,0.079,0.237,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+372,EMP-0975,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.234,NORMAL,0.0,3,0.078,0.234,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+373,EMP-0302,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NORMAL,0.233,NORMAL,0.0,3,0.078,0.233,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+374,EMP-0463,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.232,NORMAL,0.0,3,0.077,0.232,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+375,EMP-0326,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.23,NORMAL,0.0,3,0.077,0.23,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+376,EMP-0345,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.23,NORMAL,0.0,3,0.077,0.23,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+377,EMP-0160,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.225,NORMAL,0.0,3,0.075,0.225,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+378,EMP-0165,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.225,NORMAL,0.0,3,0.075,0.225,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+379,EMP-0543,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.22,NORMAL,0.0,3,0.073,0.22,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+380,EMP-0184,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.219,NORMAL,0.0,3,0.073,0.219,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+381,EMP-0926,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.219,NORMAL,0.0,3,0.073,0.219,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+382,EMP-0020,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.21,NORMAL,0.0,3,0.07,0.21,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+383,EMP-0962,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.21,NORMAL,0.0,3,0.07,0.21,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+384,EMP-0482,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.208,NORMAL,0.0,3,0.069,0.208,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+385,EMP-0426,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.205,NORMAL,0.0,3,0.068,0.205,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+386,EMP-0486,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.202,NORMAL,0.0,3,0.067,0.202,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+387,EMP-0034,Manufaktur,DKI Jakarta,Kecil,EXPLAINED_BY_RESIGN,0.0,NORMAL,0.201,NORMAL,0.0,3,0.067,0.201,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+388,EMP-0488,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.201,NORMAL,0.0,3,0.067,0.201,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+389,EMP-0956,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.2,NORMAL,0.0,3,0.067,0.2,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+390,EMP-0433,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.195,NORMAL,0.0,3,0.065,0.195,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+391,EMP-0352,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.192,NORMAL,0.0,3,0.064,0.192,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+392,EMP-0157,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.191,NORMAL,0.0,3,0.064,0.191,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+393,EMP-0514,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.188,NORMAL,0.0,3,0.063,0.188,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+394,EMP-0924,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.188,NORMAL,0.0,3,0.063,0.188,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+395,EMP-0356,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.186,NORMAL,0.0,3,0.062,0.186,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+396,EMP-0365,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.185,NORMAL,0.0,3,0.062,0.185,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+397,EMP-1008,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.18,NORMAL,0.0,3,0.06,0.18,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+398,EMP-0497,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.178,NORMAL,0.0,3,0.059,0.178,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+399,EMP-0136,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.175,NORMAL,0.0,3,0.058,0.175,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+400,EMP-0175,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.175,NORMAL,0.0,3,0.058,0.175,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+401,EMP-0276,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NORMAL,0.175,NORMAL,0.0,3,0.058,0.175,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+402,EMP-0538,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.175,NORMAL,0.0,3,0.058,0.175,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+403,EMP-0942,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.174,NORMAL,0.0,3,0.058,0.174,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+404,EMP-0530,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.171,NORMAL,0.0,3,0.057,0.171,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+405,EMP-0505,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.167,NORMAL,0.0,3,0.056,0.167,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+406,EMP-0311,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.165,NORMAL,0.0,3,0.055,0.165,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+407,EMP-0472,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.164,NORMAL,0.0,3,0.055,0.164,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+408,EMP-0131,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.163,NORMAL,0.0,3,0.054,0.163,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+409,EMP-0033,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.162,NORMAL,0.0,3,0.054,0.162,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+410,EMP-0275,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NORMAL,0.162,NORMAL,0.0,3,0.054,0.162,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+411,EMP-0153,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.151,NORMAL,0.0,3,0.05,0.151,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+412,EMP-0451,Perdagangan & Ritel,Sumatera Utara,Menengah,EXPLAINED_BY_RESIGN,0.0,NORMAL,0.151,NORMAL,0.0,3,0.05,0.151,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+413,EMP-0952,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.148,NORMAL,0.0,3,0.049,0.148,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+414,EMP-0933,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.147,NORMAL,0.0,3,0.049,0.147,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+415,EMP-0879,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.144,NORMAL,0.0,3,0.048,0.144,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+416,EMP-0536,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.142,NORMAL,0.0,3,0.047,0.142,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+417,EMP-0004,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.141,NORMAL,0.0,3,0.047,0.141,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+418,EMP-0030,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.14,NORMAL,0.0,3,0.047,0.14,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+419,EMP-0145,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.138,NORMAL,0.0,3,0.046,0.138,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+420,EMP-0156,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.137,NORMAL,0.0,3,0.046,0.137,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+421,EMP-0517,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.135,NORMAL,0.0,3,0.045,0.135,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+422,EMP-0520,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.13,NORMAL,0.0,3,0.043,0.13,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+423,EMP-0191,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.128,NORMAL,0.0,3,0.043,0.128,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+424,EMP-0445,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.128,NORMAL,0.0,3,0.043,0.128,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+425,EMP-0471,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.127,NORMAL,0.0,3,0.042,0.127,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+426,EMP-0323,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.12,NORMAL,0.0,3,0.04,0.12,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+427,EMP-0410,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.118,NORMAL,0.0,3,0.039,0.118,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+428,EMP-0442,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.118,NORMAL,0.0,3,0.039,0.118,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+429,EMP-0484,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.118,NORMAL,0.0,3,0.039,0.118,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+430,EMP-0932,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.118,NORMAL,0.0,3,0.039,0.118,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+431,EMP-0142,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.117,NORMAL,0.0,3,0.039,0.117,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+432,EMP-0029,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.115,NORMAL,0.0,3,0.038,0.115,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+433,EMP-0285,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NORMAL,0.113,NORMAL,0.0,3,0.038,0.113,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+434,EMP-0501,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.111,NORMAL,0.0,3,0.037,0.111,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+435,EMP-1006,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.108,NORMAL,0.0,3,0.036,0.108,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+436,EMP-0519,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.105,NORMAL,0.0,3,0.035,0.105,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+437,EMP-0418,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.102,NORMAL,0.0,3,0.034,0.102,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+438,EMP-0506,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.102,NORMAL,0.0,3,0.034,0.102,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+439,EMP-0292,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NORMAL,0.1,NORMAL,0.0,3,0.033,0.1,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+440,EMP-0475,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.1,NORMAL,0.0,3,0.033,0.1,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+441,EMP-1005,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.099,NORMAL,0.0,3,0.033,0.099,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+442,EMP-0481,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.095,NORMAL,0.0,3,0.032,0.095,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+443,EMP-0333,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.094,NORMAL,0.0,3,0.031,0.094,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+444,EMP-0163,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.092,NORMAL,0.0,3,0.031,0.092,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+445,EMP-1004,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.089,NORMAL,0.0,3,0.03,0.089,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+446,EMP-0877,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.083,NORMAL,0.0,3,0.028,0.083,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+447,EMP-0883,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.083,NORMAL,0.0,3,0.028,0.083,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+448,EMP-0295,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NORMAL,0.082,NORMAL,0.0,3,0.027,0.082,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+449,EMP-0996,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.079,NORMAL,0.0,3,0.026,0.079,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+450,EMP-0137,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.078,NORMAL,0.0,3,0.026,0.078,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+451,EMP-1015,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.073,NORMAL,0.0,3,0.024,0.073,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+452,EMP-0001,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.072,NORMAL,0.0,3,0.024,0.072,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+453,EMP-0863,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.072,NORMAL,0.0,3,0.024,0.072,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+454,EMP-0014,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.071,NORMAL,0.0,3,0.024,0.071,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+455,EMP-0454,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.07,NORMAL,0.0,3,0.023,0.07,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+456,EMP-0525,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.068,NORMAL,0.0,3,0.023,0.068,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+457,EMP-0990,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.068,NORMAL,0.0,3,0.023,0.068,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+458,EMP-0509,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.067,NORMAL,0.0,3,0.022,0.067,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+459,EMP-0533,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.064,NORMAL,0.0,3,0.021,0.064,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+460,EMP-0882,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.064,NORMAL,0.0,3,0.021,0.064,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+461,EMP-0522,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.063,NORMAL,0.0,3,0.021,0.063,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+462,EMP-0434,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.059,NORMAL,0.0,3,0.02,0.059,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+463,EMP-0919,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.058,NORMAL,0.0,3,0.019,0.058,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+464,EMP-0348,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.057,NORMAL,0.0,3,0.019,0.057,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+465,EMP-0363,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.054,NORMAL,0.0,3,0.018,0.054,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+466,EMP-0539,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.05,NORMAL,0.0,3,0.017,0.05,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+467,EMP-0858,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.05,NORMAL,0.0,3,0.017,0.05,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+468,EMP-0413,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.048,NORMAL,0.0,3,0.016,0.048,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+469,EMP-0495,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.043,NORMAL,0.0,3,0.014,0.043,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+470,EMP-0998,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.043,NORMAL,0.0,3,0.014,0.043,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+471,EMP-0321,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.042,NORMAL,0.0,3,0.014,0.042,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+472,EMP-0154,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.038,NORMAL,0.0,3,0.013,0.038,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+473,EMP-0452,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.038,NORMAL,0.0,3,0.013,0.038,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+474,EMP-1003,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.034,NORMAL,0.0,3,0.011,0.034,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+475,EMP-0308,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.031,NORMAL,0.0,3,0.01,0.031,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+476,EMP-0981,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.03,NORMAL,0.0,3,0.01,0.03,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+477,EMP-0507,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.028,NORMAL,0.0,3,0.009,0.028,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+478,EMP-0025,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.027,NORMAL,0.0,3,0.009,0.027,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+479,EMP-0018,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.022,NORMAL,0.0,3,0.007,0.022,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+480,EMP-0180,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.022,NORMAL,0.0,3,0.007,0.022,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+481,EMP-0309,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.022,NORMAL,0.0,3,0.007,0.022,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+482,EMP-0358,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.021,NORMAL,0.0,3,0.007,0.021,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+483,EMP-0016,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.019,NORMAL,0.0,3,0.006,0.019,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+484,EMP-0313,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.01,NORMAL,0.0,3,0.003,0.01,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+485,EMP-0331,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.009,NORMAL,0.0,3,0.003,0.009,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+486,EMP-0007,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.008,NORMAL,0.0,3,0.003,0.008,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+487,EMP-0948,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.005,NORMAL,0.0,3,0.002,0.005,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+488,EMP-0489,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.001,NORMAL,0.0,3,0.0,0.001,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+489,EMP-0005,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+490,EMP-0008,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+491,EMP-0009,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+492,EMP-0011,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+493,EMP-0012,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+494,EMP-0013,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+495,EMP-0019,Manufaktur,DKI Jakarta,Kecil,INSUFFICIENT_DATA,,INSUFFICIENT_DATA,,NORMAL,0.0,1,0.0,0.0,0,Rendah,Tidak ada indikasi di 1 modul yang dinilai.
+496,EMP-0022,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+497,EMP-0023,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+498,EMP-0026,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+499,EMP-0027,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+500,EMP-0032,Manufaktur,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+501,EMP-0036,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+502,EMP-0037,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+503,EMP-0038,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+504,EMP-0040,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+505,EMP-0041,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+506,EMP-0042,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+507,EMP-0044,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+508,EMP-0045,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+509,EMP-0046,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+510,EMP-0047,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+511,EMP-0049,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+512,EMP-0050,Manufaktur,Jawa Barat,Menengah,INSUFFICIENT_DATA,,INSUFFICIENT_DATA,,NORMAL,0.0,1,0.0,0.0,0,Rendah,Tidak ada indikasi di 1 modul yang dinilai.
+513,EMP-0051,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+514,EMP-0055,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+515,EMP-0056,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+516,EMP-0057,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+517,EMP-0058,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+518,EMP-0059,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+519,EMP-0061,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+520,EMP-0062,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+521,EMP-0063,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+522,EMP-0064,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+523,EMP-0066,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+524,EMP-0067,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+525,EMP-0068,Manufaktur,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+526,EMP-0069,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+527,EMP-0070,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+528,EMP-0071,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+529,EMP-0075,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+530,EMP-0079,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+531,EMP-0081,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+532,EMP-0082,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+533,EMP-0083,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+534,EMP-0084,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+535,EMP-0085,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+536,EMP-0086,Manufaktur,Jawa Timur,Besar,EXPLAINED_BY_RESIGN,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+537,EMP-0087,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+538,EMP-0089,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+539,EMP-0091,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+540,EMP-0093,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+541,EMP-0095,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+542,EMP-0096,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+543,EMP-0097,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+544,EMP-0098,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+545,EMP-0101,Manufaktur,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+546,EMP-0103,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+547,EMP-0104,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+548,EMP-0107,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+549,EMP-0110,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+550,EMP-0111,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+551,EMP-0112,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+552,EMP-0113,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+553,EMP-0118,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+554,EMP-0120,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+555,EMP-0121,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+556,EMP-0124,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+557,EMP-0126,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+558,EMP-0128,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+559,EMP-0130,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+560,EMP-0132,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+561,EMP-0134,Manufaktur,Sumatera Utara,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+562,EMP-0138,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+563,EMP-0141,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+564,EMP-0144,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+565,EMP-0147,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+566,EMP-0149,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+567,EMP-0155,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+568,EMP-0158,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+569,EMP-0159,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+570,EMP-0161,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+571,EMP-0167,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+572,EMP-0170,Manufaktur,Sulawesi Selatan,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+573,EMP-0171,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+574,EMP-0172,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+575,EMP-0173,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+576,EMP-0176,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+577,EMP-0183,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+578,EMP-0187,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+579,EMP-0190,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+580,EMP-0196,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+581,EMP-0200,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+582,EMP-0201,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+583,EMP-0202,Konstruksi,DKI Jakarta,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+584,EMP-0205,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+585,EMP-0206,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+586,EMP-0207,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+587,EMP-0208,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+588,EMP-0212,Konstruksi,Jawa Barat,Kecil,INSUFFICIENT_DATA,,INSUFFICIENT_DATA,,NORMAL,0.0,1,0.0,0.0,0,Rendah,Tidak ada indikasi di 1 modul yang dinilai.
+589,EMP-0215,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+590,EMP-0216,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+591,EMP-0217,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+592,EMP-0219,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+593,EMP-0221,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+594,EMP-0223,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+595,EMP-0224,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+596,EMP-0225,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+597,EMP-0226,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+598,EMP-0227,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+599,EMP-0229,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+600,EMP-0231,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+601,EMP-0232,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+602,EMP-0235,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+603,EMP-0236,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+604,EMP-0237,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+605,EMP-0238,Konstruksi,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+606,EMP-0240,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+607,EMP-0242,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+608,EMP-0246,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+609,EMP-0247,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+610,EMP-0249,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+611,EMP-0250,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+612,EMP-0251,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+613,EMP-0253,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+614,EMP-0254,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+615,EMP-0255,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+616,EMP-0256,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+617,EMP-0257,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+618,EMP-0258,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+619,EMP-0259,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+620,EMP-0260,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+621,EMP-0261,Konstruksi,Jawa Timur,Menengah,INSUFFICIENT_DATA,,INSUFFICIENT_DATA,,NORMAL,0.0,1,0.0,0.0,0,Rendah,Tidak ada indikasi di 1 modul yang dinilai.
+622,EMP-0262,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+623,EMP-0263,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+624,EMP-0267,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+625,EMP-0268,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+626,EMP-0269,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+627,EMP-0270,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+628,EMP-0271,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+629,EMP-0272,Konstruksi,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+630,EMP-0273,Konstruksi,Sumatera Utara,Besar,INSUFFICIENT_DATA,,INSUFFICIENT_DATA,,NORMAL,0.0,1,0.0,0.0,0,Rendah,Tidak ada indikasi di 1 modul yang dinilai.
+631,EMP-0274,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+632,EMP-0282,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+633,EMP-0287,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+634,EMP-0290,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+635,EMP-0291,Konstruksi,Sumatera Utara,Besar,INSUFFICIENT_DATA,,INSUFFICIENT_DATA,,NORMAL,0.0,1,0.0,0.0,0,Rendah,Tidak ada indikasi di 1 modul yang dinilai.
+636,EMP-0293,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+637,EMP-0300,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+638,EMP-0301,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+639,EMP-0304,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+640,EMP-0305,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+641,EMP-0306,Konstruksi,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+642,EMP-0307,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+643,EMP-0310,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+644,EMP-0315,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+645,EMP-0316,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+646,EMP-0324,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+647,EMP-0330,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+648,EMP-0332,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+649,EMP-0337,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+650,EMP-0338,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+651,EMP-0339,Konstruksi,Sulawesi Selatan,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+652,EMP-0342,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+653,EMP-0343,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+654,EMP-0344,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+655,EMP-0347,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+656,EMP-0349,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+657,EMP-0351,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+658,EMP-0353,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+659,EMP-0357,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+660,EMP-0359,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+661,EMP-0366,Perdagangan & Ritel,DKI Jakarta,Menengah,INSUFFICIENT_DATA,,INSUFFICIENT_DATA,,NORMAL,0.0,1,0.0,0.0,0,Rendah,Tidak ada indikasi di 1 modul yang dinilai.
+662,EMP-0368,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+663,EMP-0372,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+664,EMP-0374,Perdagangan & Ritel,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+665,EMP-0375,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+666,EMP-0377,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+667,EMP-0378,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+668,EMP-0380,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+669,EMP-0381,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+670,EMP-0383,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+671,EMP-0384,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+672,EMP-0385,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+673,EMP-0389,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+674,EMP-0390,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+675,EMP-0391,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+676,EMP-0392,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+677,EMP-0394,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+678,EMP-0397,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+679,EMP-0398,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+680,EMP-0400,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+681,EMP-0401,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+682,EMP-0402,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+683,EMP-0403,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+684,EMP-0404,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+685,EMP-0407,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+686,EMP-0408,Perdagangan & Ritel,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+687,EMP-0411,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+688,EMP-0412,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+689,EMP-0414,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+690,EMP-0417,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+691,EMP-0420,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+692,EMP-0425,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+693,EMP-0427,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+694,EMP-0429,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+695,EMP-0430,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+696,EMP-0432,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+697,EMP-0439,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+698,EMP-0441,Perdagangan & Ritel,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+699,EMP-0443,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+700,EMP-0446,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+701,EMP-0448,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+702,EMP-0449,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+703,EMP-0450,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+704,EMP-0453,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+705,EMP-0458,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+706,EMP-0461,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+707,EMP-0465,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+708,EMP-0467,Perdagangan & Ritel,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+709,EMP-0480,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+710,EMP-0483,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+711,EMP-0487,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+712,EMP-0491,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+713,EMP-0493,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+714,EMP-0496,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+715,EMP-0498,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+716,EMP-0499,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+717,EMP-0502,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+718,EMP-0503,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+719,EMP-0508,Perdagangan & Ritel,Sulawesi Selatan,Besar,EXPLAINED_BY_RESIGN,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+720,EMP-0510,Perdagangan & Ritel,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+721,EMP-0511,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+722,EMP-0513,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+723,EMP-0515,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+724,EMP-0518,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+725,EMP-0523,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+726,EMP-0524,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+727,EMP-0526,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+728,EMP-0527,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+729,EMP-0529,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+730,EMP-0531,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+731,EMP-0532,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+732,EMP-0534,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+733,EMP-0535,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+734,EMP-0544,Jasa Keuangan,DKI Jakarta,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+735,EMP-0545,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+736,EMP-0546,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+737,EMP-0547,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+738,EMP-0549,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+739,EMP-0550,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+740,EMP-0551,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+741,EMP-0553,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+742,EMP-0554,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+743,EMP-0558,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+744,EMP-0560,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+745,EMP-0562,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+746,EMP-0563,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+747,EMP-0564,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+748,EMP-0565,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+749,EMP-0566,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+750,EMP-0567,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+751,EMP-0570,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+752,EMP-0574,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+753,EMP-0575,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+754,EMP-0576,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+755,EMP-0577,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+756,EMP-0578,Jasa Keuangan,Jawa Barat,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+757,EMP-0579,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+758,EMP-0581,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+759,EMP-0582,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+760,EMP-0583,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+761,EMP-0584,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+762,EMP-0585,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+763,EMP-0587,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+764,EMP-0590,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+765,EMP-0591,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+766,EMP-0592,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+767,EMP-0594,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+768,EMP-0598,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+769,EMP-0599,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+770,EMP-0601,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+771,EMP-0602,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+772,EMP-0603,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+773,EMP-0604,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+774,EMP-0605,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+775,EMP-0607,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+776,EMP-0608,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+777,EMP-0609,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+778,EMP-0610,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+779,EMP-0611,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+780,EMP-0612,Jasa Keuangan,Jawa Timur,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+781,EMP-0613,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+782,EMP-0617,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+783,EMP-0618,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+784,EMP-0620,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+785,EMP-0621,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+786,EMP-0624,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+787,EMP-0625,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+788,EMP-0626,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+789,EMP-0627,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+790,EMP-0630,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+791,EMP-0631,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+792,EMP-0634,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+793,EMP-0636,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+794,EMP-0637,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+795,EMP-0638,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+796,EMP-0639,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+797,EMP-0640,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+798,EMP-0641,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+799,EMP-0642,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+800,EMP-0643,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+801,EMP-0644,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+802,EMP-0645,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+803,EMP-0646,Jasa Keuangan,Sumatera Utara,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+804,EMP-0647,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+805,EMP-0649,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+806,EMP-0651,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+807,EMP-0652,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+808,EMP-0653,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+809,EMP-0656,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+810,EMP-0658,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+811,EMP-0659,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+812,EMP-0660,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+813,EMP-0661,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+814,EMP-0662,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+815,EMP-0665,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+816,EMP-0667,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+817,EMP-0668,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+818,EMP-0670,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+819,EMP-0672,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+820,EMP-0673,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+821,EMP-0674,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+822,EMP-0675,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+823,EMP-0677,Jasa Keuangan,Sulawesi Selatan,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+824,EMP-0686,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+825,EMP-0687,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+826,EMP-0689,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+827,EMP-0690,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+828,EMP-0693,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+829,EMP-0695,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+830,EMP-0696,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+831,EMP-0697,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+832,EMP-0699,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+833,EMP-0700,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+834,EMP-0701,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+835,EMP-0702,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+836,EMP-0703,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+837,EMP-0704,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+838,EMP-0705,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+839,EMP-0709,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+840,EMP-0711,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+841,EMP-0712,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+842,EMP-0713,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+843,EMP-0714,Teknologi & Digital,DKI Jakarta,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+844,EMP-0715,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+845,EMP-0716,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+846,EMP-0717,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+847,EMP-0719,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+848,EMP-0720,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+849,EMP-0721,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+850,EMP-0725,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+851,EMP-0726,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+852,EMP-0728,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+853,EMP-0729,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+854,EMP-0730,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+855,EMP-0732,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+856,EMP-0733,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+857,EMP-0734,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+858,EMP-0735,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+859,EMP-0737,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+860,EMP-0739,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+861,EMP-0740,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+862,EMP-0741,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+863,EMP-0743,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+864,EMP-0745,Teknologi & Digital,Jawa Barat,Kecil,EXPLAINED_BY_RESIGN,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+865,EMP-0746,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+866,EMP-0747,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+867,EMP-0748,Teknologi & Digital,Jawa Barat,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+868,EMP-0750,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+869,EMP-0751,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+870,EMP-0753,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+871,EMP-0754,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+872,EMP-0755,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+873,EMP-0756,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+874,EMP-0757,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+875,EMP-0758,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+876,EMP-0759,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+877,EMP-0760,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+878,EMP-0761,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+879,EMP-0762,Teknologi & Digital,Jawa Timur,Menengah,INSUFFICIENT_DATA,,INSUFFICIENT_DATA,,NORMAL,0.0,1,0.0,0.0,0,Rendah,Tidak ada indikasi di 1 modul yang dinilai.
+880,EMP-0764,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+881,EMP-0766,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+882,EMP-0767,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+883,EMP-0769,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+884,EMP-0770,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+885,EMP-0771,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+886,EMP-0772,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+887,EMP-0773,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+888,EMP-0774,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+889,EMP-0775,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+890,EMP-0776,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+891,EMP-0777,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+892,EMP-0778,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+893,EMP-0779,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+894,EMP-0780,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+895,EMP-0781,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+896,EMP-0782,Teknologi & Digital,Jawa Timur,Menengah,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+897,EMP-0783,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+898,EMP-0784,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+899,EMP-0786,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+900,EMP-0788,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+901,EMP-0789,Teknologi & Digital,Sumatera Utara,Besar,INSUFFICIENT_DATA,,INSUFFICIENT_DATA,,NORMAL,0.0,1,0.0,0.0,0,Rendah,Tidak ada indikasi di 1 modul yang dinilai.
+902,EMP-0790,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+903,EMP-0791,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+904,EMP-0792,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+905,EMP-0793,Teknologi & Digital,Sumatera Utara,Besar,INSUFFICIENT_DATA,,INSUFFICIENT_DATA,,NORMAL,0.0,1,0.0,0.0,0,Rendah,Tidak ada indikasi di 1 modul yang dinilai.
+906,EMP-0795,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+907,EMP-0798,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+908,EMP-0800,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+909,EMP-0802,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+910,EMP-0803,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+911,EMP-0804,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+912,EMP-0805,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+913,EMP-0807,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+914,EMP-0808,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+915,EMP-0809,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+916,EMP-0810,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+917,EMP-0811,Teknologi & Digital,Sumatera Utara,Besar,INSUFFICIENT_DATA,,INSUFFICIENT_DATA,,NORMAL,0.0,1,0.0,0.0,0,Rendah,Tidak ada indikasi di 1 modul yang dinilai.
+918,EMP-0813,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+919,EMP-0814,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+920,EMP-0815,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+921,EMP-0816,Teknologi & Digital,Sumatera Utara,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+922,EMP-0819,Teknologi & Digital,Sulawesi Selatan,Kecil,EXPLAINED_BY_RESIGN,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+923,EMP-0820,Teknologi & Digital,Sulawesi Selatan,Kecil,EXPLAINED_BY_RESIGN,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+924,EMP-0822,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+925,EMP-0824,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+926,EMP-0825,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+927,EMP-0827,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+928,EMP-0828,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+929,EMP-0831,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+930,EMP-0832,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+931,EMP-0833,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+932,EMP-0834,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+933,EMP-0835,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+934,EMP-0837,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+935,EMP-0839,Teknologi & Digital,Sulawesi Selatan,Kecil,INSUFFICIENT_DATA,,INSUFFICIENT_DATA,,NORMAL,0.0,1,0.0,0.0,0,Rendah,Tidak ada indikasi di 1 modul yang dinilai.
+936,EMP-0842,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+937,EMP-0845,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+938,EMP-0847,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+939,EMP-0848,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+940,EMP-0849,Teknologi & Digital,Sulawesi Selatan,Kecil,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+941,EMP-0852,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+942,EMP-0855,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+943,EMP-0859,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+944,EMP-0862,Perkebunan & Agribisnis,DKI Jakarta,Menengah,INSUFFICIENT_DATA,,INSUFFICIENT_DATA,,NORMAL,0.0,1,0.0,0.0,0,Rendah,Tidak ada indikasi di 1 modul yang dinilai.
+945,EMP-0864,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+946,EMP-0865,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+947,EMP-0866,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+948,EMP-0871,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+949,EMP-0872,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+950,EMP-0875,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+951,EMP-0876,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+952,EMP-0878,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+953,EMP-0880,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+954,EMP-0881,Perkebunan & Agribisnis,DKI Jakarta,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+955,EMP-0885,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+956,EMP-0886,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+957,EMP-0888,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+958,EMP-0889,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+959,EMP-0890,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+960,EMP-0891,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+961,EMP-0892,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+962,EMP-0894,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+963,EMP-0897,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+964,EMP-0898,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+965,EMP-0899,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+966,EMP-0900,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+967,EMP-0901,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+968,EMP-0902,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+969,EMP-0903,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+970,EMP-0904,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+971,EMP-0905,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+972,EMP-0906,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+973,EMP-0907,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+974,EMP-0908,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+975,EMP-0909,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+976,EMP-0910,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+977,EMP-0912,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+978,EMP-0913,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+979,EMP-0914,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+980,EMP-0916,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+981,EMP-0918,Perkebunan & Agribisnis,Jawa Barat,Besar,NORMAL,0.0,NOT_CANDIDATE,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+982,EMP-0920,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+983,EMP-0923,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+984,EMP-0927,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+985,EMP-0928,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+986,EMP-0930,Perkebunan & Agribisnis,Jawa Timur,Kecil,INSUFFICIENT_DATA,,INSUFFICIENT_DATA,,NORMAL,0.0,1,0.0,0.0,0,Rendah,Tidak ada indikasi di 1 modul yang dinilai.
+987,EMP-0931,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+988,EMP-0934,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+989,EMP-0937,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+990,EMP-0938,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+991,EMP-0945,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+992,EMP-0946,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+993,EMP-0949,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+994,EMP-0950,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+995,EMP-0951,Perkebunan & Agribisnis,Jawa Timur,Kecil,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+996,EMP-0958,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+997,EMP-0959,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+998,EMP-0964,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+999,EMP-0965,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1000,EMP-0966,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1001,EMP-0970,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1002,EMP-0971,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1003,EMP-0976,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1004,EMP-0979,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1005,EMP-0984,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1006,EMP-0985,Perkebunan & Agribisnis,Sumatera Utara,Menengah,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1007,EMP-0987,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1008,EMP-0989,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1009,EMP-0991,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1010,EMP-0993,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1011,EMP-0997,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1012,EMP-0999,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1013,EMP-1002,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1014,EMP-1007,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1015,EMP-1009,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,INSUFFICIENT_DATA,,INSUFFICIENT_DATA,,NORMAL,0.0,1,0.0,0.0,0,Rendah,Tidak ada indikasi di 1 modul yang dinilai.
+1016,EMP-1010,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1017,EMP-1012,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1018,EMP-1013,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1019,EMP-1014,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.
+1020,EMP-1016,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,NORMAL,0.0,NORMAL,0.0,NORMAL,0.0,3,0.0,0.0,0,Rendah,Tidak ada indikasi di 3 modul yang dinilai.

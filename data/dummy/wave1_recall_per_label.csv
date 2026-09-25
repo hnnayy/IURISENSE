@@ -1,0 +1,4 @@
+label,modul_seharusnya,n_kasus,ke-flag_modul_benar,recall_modul_benar,hanya_ke-flag_modul_lain,tidak_ke-flag_sama_sekali,belum_bisa_dinilai
+PDUK,A,25,25,1.0,0,0,0
+REMITTANCE_GAP,C,25,25,1.0,0,0,0
+UNDER_REPORTING_WAGE,B,25,19,0.76,0,6,0

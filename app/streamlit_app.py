@@ -3,6 +3,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 import streamlit as st
+import json
 
 
 st.set_page_config(page_title="ECRS | Employer Risk Console", page_icon="◈", layout="wide")
@@ -106,6 +107,30 @@ def score_data(data, truth):
     return data.merge(scores[["employer_id", "risk_score", "status"]], on="employer_id"), scores
 
 
+@st.cache_data(show_spinner=False)
+def load_wave2_scores():
+    candidates = [
+        *sorted((ROOT / "output_wave2").glob("output_scores*.json"), key=lambda item: item.stat().st_mtime, reverse=True),
+        *sorted(DATA_DIR.glob("output_scores*.json"), key=lambda item: item.stat().st_mtime, reverse=True),
+    ]
+    path = next((candidate for candidate in candidates if candidate.exists()), None)
+    if path is None:
+        return None
+    with path.open(encoding="utf-8") as file:
+        payload = json.load(file)
+    companies = pd.DataFrame(payload.get("companies", []))
+    if companies.empty:
+        return None
+    companies = companies.rename(columns={"id": "employer_id"})
+    for module in ["A", "B", "C"]:
+        companies[f"score_{module}"] = companies["scores"].map(lambda value: value.get(module) if isinstance(value, dict) else np.nan)
+        companies[f"status_{module}"] = companies["status"].map(lambda value: value.get(module) if isinstance(value, dict) else "NO_DATA")
+        companies[f"module_{module.lower()}"] = companies[f"status_{module}"].eq("FLAGGED")
+    companies["risk_score"] = companies["composite_score"].fillna(0).mul(100).round().astype(int)
+    companies["status"] = companies["band"]
+    return companies, payload.get("meta", {}), path
+
+
 def inject_css():
     st.markdown("""<style>
     @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap');
@@ -130,22 +155,39 @@ def main():
     inject_css()
     (data, truth), demo = load_data()
     data, scores = score_data(data, truth)
+    wave2 = load_wave2_scores()
+    wave2_active = wave2 is not None
+    if wave2_active:
+        wave2_scores, wave2_meta, wave2_path = wave2
+        wave2_columns = ["risk_score", "status", "band", "composite_score", "coverage",
+                         "max_module_score", "score_A", "score_B", "score_C", "status_A", "status_B", "status_C",
+                         "module_a", "module_b", "module_c"]
+        scores = scores.drop(columns=wave2_columns, errors="ignore").merge(
+            wave2_scores[["employer_id", "risk_score", "status", "band", "composite_score", "coverage",
+                          "max_module_score", "score_A", "score_B", "score_C", "status_A", "status_B", "status_C",
+                          "module_a", "module_b", "module_c"]], on="employer_id", how="left")
+        data = data.drop(columns=["risk_score", "status"], errors="ignore").merge(
+            scores[["employer_id", "risk_score", "status"]], on="employer_id", how="left")
     st.sidebar.markdown("<div class='eyebrow'>ECRS / WAVE 1</div><h2>Risk Console</h2>", unsafe_allow_html=True)
     st.sidebar.caption("Employer Contribution Risk Score")
     if demo:
         st.sidebar.info("Mode demo aktif. Letakkan enam CSV Wave 0 di data/dummy untuk memakai data engine.")
+    if wave2_active:
+        st.sidebar.success(f"Wave 2 aktif: {wave2_path.parent.name}/{wave2_path.name}")
     sectors = st.sidebar.multiselect("Sektor", sorted(data.sektor_usaha.unique()), default=sorted(data.sektor_usaha.unique()))
     regions = st.sidebar.multiselect("Wilayah", sorted(data.wilayah.unique()), default=sorted(data.wilayah.unique()))
-    statuses = st.sidebar.multiselect("Status risiko", ["PRIORITAS TINGGI", "PERLU DITINJAU", "NORMAL"], default=["PRIORITAS TINGGI", "PERLU DITINJAU"])
+    status_options = ["Tinggi", "Sedang", "Rendah", "Belum bisa dinilai"] if wave2_active else ["PRIORITAS TINGGI", "PERLU DITINJAU", "NORMAL"]
+    statuses = st.sidebar.multiselect("Status risiko", status_options, default=status_options[:2])
     filtered_scores = scores[scores.sektor_usaha.isin(sectors) & scores.wilayah.isin(regions)]
     visible_scores = filtered_scores[filtered_scores.status.isin(statuses)]
     visible_data = data[data.employer_id.isin(filtered_scores.employer_id)]
-    st.markdown("<div class='eyebrow'>COMMAND CENTER · 25 SEP 2026</div>", unsafe_allow_html=True)
+    st.markdown(f"<div class='eyebrow'>COMMAND CENTER · {'WAVE 2 COMPOSITE' if wave2_active else 'WAVE 1 SIGNALS'}</div>", unsafe_allow_html=True)
     st.title("Employer risk, made inspectable.")
     st.markdown("<div class='subtitle'>Satu pandangan untuk menemukan pola yang perlu dicek, memahami alasannya, dan menelusuri sinyal sampai level perusahaan.</div>", unsafe_allow_html=True)
     cols = st.columns(4)
     with cols[0]: metric("Employer dipantau", f"{len(filtered_scores):,}", "setelah filter aktif")
-    with cols[1]: metric("Prioritas tinggi", f"{int((filtered_scores.status == 'PRIORITAS TINGGI').sum()):,}", "gabungan sinyal A / B / C")
+    high_status = "Tinggi" if wave2_active else "PRIORITAS TINGGI"
+    with cols[1]: metric("Prioritas tinggi", f"{int((filtered_scores.status == high_status).sum()):,}", "berdasarkan composite score")
     with cols[2]: metric("Potensi gap kontribusi", rupiah(visible_data.expected_contribution.sub(visible_data.actual_remittance).clip(lower=0).sum()), "estimasi dari periode tampil")
     with cols[3]: metric("Data coverage", f"{visible_data.periode.nunique()} bln", "periode observasi terakhir")
     st.markdown("<div class='callout'><strong>Catatan pemeriksa:</strong> skor adalah prioritas investigasi, bukan vonis. Buka tabel di bawah untuk melihat sinyal penyusunnya dan alasan yang dapat ditindaklanjuti.</div>", unsafe_allow_html=True)
@@ -156,7 +198,10 @@ def main():
             st.subheader("Antrian pemeriksaan")
             table = visible_scores.sort_values(["risk_score", "max_gap"], ascending=False).copy()
             table["Sinyal"] = table.apply(lambda row: " · ".join([name for name, active in [("A", row.module_a), ("B", row.module_b), ("C", row.module_c)] if active]) or "-", axis=1)
-            st.dataframe(table[["employer_id", "status", "risk_score", "Sinyal", "anomaly_type"]].rename(columns={"employer_id": "Employer", "status": "Status", "risk_score": "Skor", "anomaly_type": "Label engine"}), use_container_width=True, hide_index=True)
+            display_columns = ["employer_id", "status", "risk_score", "Sinyal", "anomaly_type"]
+            if wave2_active:
+                display_columns.insert(3, "coverage")
+            st.dataframe(table[display_columns].rename(columns={"employer_id": "Employer", "status": "Band", "risk_score": "Skor", "coverage": "Coverage", "anomaly_type": "Label engine"}), width="stretch", hide_index=True)
         with right:
             st.subheader("Komposisi sinyal")
             signal_counts = pd.Series({"A / Headcount": int(visible_scores.module_a.sum()), "B / Peer wage": int(visible_scores.module_b.sum()), "C / Remittance": int(visible_scores.module_c.sum())})
@@ -170,18 +215,18 @@ def main():
             chart_id = st.selectbox("Pilih employer", choices, key="a")
             view = visible_data[visible_data.employer_id.eq(chart_id)].set_index("periode")
             st.line_chart(view[["jumlah_peserta_aktif", "jumlah_keluar"]], color=["#173c35", "#f27d52"], height=300)
-            st.dataframe(visible_scores[visible_scores.employer_id.eq(chart_id)][["employer_id", "max_drop", "resign", "periods", "module_a"]], use_container_width=True, hide_index=True)
+            st.dataframe(visible_scores[visible_scores.employer_id.eq(chart_id)][["employer_id", "max_drop", "resign", "periods", "module_a"]], width="stretch", hide_index=True)
     with tab_b:
         st.subheader("Peer-group wage benchmarking")
         st.caption("DPI yang konsisten jauh di bawah median cohort sektor, wilayah, dan skala yang sama menjadi sinyal under-reporting.")
         st.line_chart(visible_data.groupby("periode", as_index=True)["rata2_DPI"].median(), color="#e6a23c", height=280)
-        st.dataframe(visible_scores.sort_values("min_peer_ratio")[["employer_id", "median_wage", "min_peer_ratio", "module_b"]].head(15), use_container_width=True, hide_index=True)
+        st.dataframe(visible_scores.sort_values("min_peer_ratio")[["employer_id", "median_wage", "min_peer_ratio", "module_b"]].head(15), width="stretch", hide_index=True)
     with tab_c:
         st.subheader("Contribution reconciliation")
         st.caption("Actual remittance dibandingkan dengan expected contribution = DPI × headcount × 4%.")
         monthly = visible_data.groupby("periode")[["expected_contribution", "actual_remittance"]].sum()
         st.line_chart(monthly, color=["#173c35", "#f27d52"], height=280)
-        st.dataframe(visible_scores.sort_values("max_gap", ascending=False)[["employer_id", "max_gap", "avg_gap", "module_c"]].head(15), use_container_width=True, hide_index=True)
+        st.dataframe(visible_scores.sort_values("max_gap", ascending=False)[["employer_id", "max_gap", "avg_gap", "module_c"]].head(15), width="stretch", hide_index=True)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,20 @@
+Validasi Wave 1 — 2026-09-25 07:22
+
+Sumber:
+  Module A: /content/drive/MyDrive/Healthkathon Engine/wave 1.A/module_a_scores.csv
+  Module B: /content/drive/MyDrive/Healthkathon Engine/wave 0.B/module_b_scores.csv
+  Module C: /content/drive/MyDrive/Healthkathon Engine/wave 0.C/module_c_scores.csv
+
+               label modul_seharusnya  n_kasus  ke-flag_modul_benar  recall_modul_benar  hanya_ke-flag_modul_lain  tidak_ke-flag_sama_sekali  belum_bisa_dinilai
+                PDUK                A       25                   25                1.00                         0                          0                   0
+      REMITTANCE_GAP                C       25                   25                1.00                         0                          0                   0
+UNDER_REPORTING_WAGE                B       25                   19                0.76                         0                          6                   0
+
+FPR per modul: {'A': 0.0, 'B': 0.0, 'C': 0.011}
+Employer bersih di-flag 3 modul: 0 | 2 modul: 0
+Masalah konsistensi: tidak ada
+
+modul                    nama  output_ada  skor_dan_status  recall_vs_ground_truth  false_positive_rate
+    A     Sembunyiin karyawan        True             True                    1.00                0.000
+    B Lapor gaji lebih rendah        True             True                    0.76                0.000
+    C    Setoran tidak sesuai        True             True                    1.00                0.011

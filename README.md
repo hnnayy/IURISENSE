@@ -104,7 +104,43 @@ Tidak perlu menyiapkan CSV. Jika file Wave 0 belum ada, dashboard otomatis memak
 
 5. Jalankan dashboard. Dashboard akan otomatis beralih dari mode demo ke data CSV ketika file wajib tersedia.
 
-## 6. Jalankan dashboard
+## 6. Jalankan Wave 2 composite scoring (opsional)
+
+Wave 2 menggabungkan skor Module A, B, dan C menjadi satu `composite_score`,
+band risiko (`Tinggi`, `Sedang`, `Rendah`), ranking, coverage, serta penjelasan
+per employer.
+
+1. Pastikan enam CSV sudah tersedia di `data/dummy/`.
+2. Buka notebook:
+
+	`Engine/wave2_composite_scoring(1).ipynb`
+
+3. Untuk eksekusi lokal, set `HK_DATA_DIR` ke folder CSV sebelum menjalankan
+	semua cell notebook:
+
+	```bash
+	export HK_DATA_DIR=data/dummy
+	```
+
+	Di Windows PowerShell:
+
+	```powershell
+	$env:HK_DATA_DIR = "data/dummy"
+	```
+
+4. Jalankan semua cell notebook. Secara lokal, output akan dibuat di:
+
+	`output_wave2/output_scores.json`
+
+	dan `output_wave2/output_scores.csv`.
+
+5. Jalankan atau refresh dashboard. Dashboard akan otomatis mendeteksi
+	`output_scores.json` dan beralih ke mode **Wave 2 Composite**.
+
+Tanpa output Wave 2, dashboard tetap berjalan menggunakan scoring langsung
+dari tiga sinyal Wave 1.
+
+## 7. Jalankan dashboard
 
 Pastikan virtual environment aktif, lalu jalankan:
 
@@ -124,7 +160,7 @@ Untuk menjalankan pada port lain:
 streamlit run app/streamlit_app.py --server.port 8511
 ```
 
-## 7. Menggunakan dashboard
+## 8. Menggunakan dashboard
 
 1. Gunakan filter **Sektor**, **Wilayah**, dan **Status risiko** di sidebar.
 2. Tab **Ringkasan risiko** menampilkan antrian pemeriksaan dan komposisi sinyal.
@@ -135,7 +171,7 @@ streamlit run app/streamlit_app.py --server.port 8511
 
 Skor dashboard adalah alat prioritas investigasi, bukan keputusan atau vonis otomatis.
 
-## 8. Troubleshooting
+## 9. Troubleshooting
 
 ### `streamlit: command not found`
 
@@ -164,6 +200,17 @@ data/dummy/ground_truth.csv
 
 Setelah menambahkan file, refresh halaman browser atau restart Streamlit.
 
+### Dashboard belum menampilkan Wave 2
+
+Pastikan file berikut sudah ada:
+
+```text
+output_wave2/output_scores.json
+```
+
+Jika notebook menghasilkan output di lokasi lain, salin `output_scores.json` ke
+`output_wave2/` atau ke `data/dummy/`. Setelah itu refresh halaman dashboard.
+
 ### Port sudah digunakan
 
 Jalankan dengan port berbeda:
@@ -177,7 +224,9 @@ streamlit run app/streamlit_app.py --server.port 8511
 ```text
 app/streamlit_app.py                 # entrypoint dashboard
 data/dummy/                          # input CSV Wave 0
+output_wave2/output_scores.json      # output composite scoring Wave 2
 Engine/ECRS_Wave0_Data_Setup.ipynb   # generator dataset sintetis
+Engine/wave2_composite_scoring(1).ipynb # composite score + explainability
 Engine/module_a_registration_volatility.ipynb
 Engine/module_b_peer_group_wage.ipynb
 requirements.txt                     # dependency Python

@@ -1,0 +1,4 @@
+modul,nama,output_ada,skor_dan_status,recall_vs_ground_truth,false_positive_rate
+A,Sembunyiin karyawan,True,True,1.0,0.0
+B,Lapor gaji lebih rendah,True,True,0.76,0.0
+C,Setoran tidak sesuai,True,True,1.0,0.011
