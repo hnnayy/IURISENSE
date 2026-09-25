@@ -1,0 +1,1021 @@
+employer_id,sektor_usaha,wilayah,skala,anomaly_type,detail
+EMP-0001,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0002,Manufaktur,DKI Jakarta,Kecil,REMITTANCE_GAP,"Actual remittance ~16% di bawah expected, berulang sejak periode 2025-09"
+EMP-0003,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0004,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0005,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0006,Manufaktur,DKI Jakarta,Kecil,REMITTANCE_GAP,"Actual remittance ~16% di bawah expected, berulang sejak periode 2025-05"
+EMP-0007,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0008,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0009,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0010,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0011,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0012,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0013,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0014,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0015,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0016,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0017,Manufaktur,DKI Jakarta,Kecil,REMITTANCE_GAP,"Actual remittance ~22% di bawah expected, berulang sejak periode 2025-10"
+EMP-0018,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0019,Manufaktur,DKI Jakarta,Kecil,COLD_START,"Registrasi baru (2025-11), hanya 2 periode histori -> harus INSUFFICIENT_DATA di Module A"
+EMP-0020,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0021,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0022,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0023,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0024,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0025,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0026,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0027,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0028,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0029,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0030,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0031,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0032,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0033,Manufaktur,DKI Jakarta,Kecil,CLEAN,-
+EMP-0034,Manufaktur,DKI Jakarta,Kecil,CLEAN_MUTASI_SAH,"Headcount drop ~39% di periode 2025-08, DENGAN resign record matching (8 orang) -> true-negative test untuk confounder-handling Module A"
+EMP-0035,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0036,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0037,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0038,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0039,Manufaktur,Jawa Barat,Menengah,REMITTANCE_GAP,"Actual remittance ~25% di bawah expected, berulang sejak periode 2025-07"
+EMP-0040,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0041,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0042,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0043,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0044,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0045,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0046,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0047,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0048,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0049,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0050,Manufaktur,Jawa Barat,Menengah,COLD_START,"Registrasi baru (2025-11), hanya 2 periode histori -> harus INSUFFICIENT_DATA di Module A"
+EMP-0051,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0052,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0053,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0054,Manufaktur,Jawa Barat,Menengah,PDUK,"Headcount drop ~43% mulai periode 2025-08, TANPA resign record matching"
+EMP-0055,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0056,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0057,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0058,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0059,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0060,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0061,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0062,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0063,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0064,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0065,Manufaktur,Jawa Barat,Menengah,UNDER_REPORTING_WAGE,"DPI ditekan ke ~68% dari median cohort (Manufaktur/Jawa Barat/Menengah, n_peer=33)"
+EMP-0066,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0067,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0068,Manufaktur,Jawa Barat,Menengah,CLEAN,-
+EMP-0069,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0070,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0071,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0072,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0073,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0074,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0075,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0076,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0077,Manufaktur,Jawa Timur,Besar,REMITTANCE_GAP,"Actual remittance ~17% di bawah expected, berulang sejak periode 2025-06"
+EMP-0078,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0079,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0080,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0081,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0082,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0083,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0084,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0085,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0086,Manufaktur,Jawa Timur,Besar,CLEAN_MUTASI_SAH,"Headcount drop ~31% di periode 2025-06, DENGAN resign record matching (253 orang) -> true-negative test untuk confounder-handling Module A"
+EMP-0087,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0088,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0089,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0090,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0091,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0092,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0093,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0094,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0095,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0096,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0097,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0098,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0099,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0100,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0101,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0102,Manufaktur,Jawa Timur,Besar,CLEAN,-
+EMP-0103,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0104,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0105,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0106,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0107,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0108,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0109,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0110,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0111,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0112,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0113,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0114,Manufaktur,Sumatera Utara,Kecil,UNDER_REPORTING_WAGE,"DPI ditekan ke ~62% dari median cohort (Manufaktur/Sumatera Utara/Kecil, n_peer=33)"
+EMP-0115,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0116,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0117,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0118,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0119,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0120,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0121,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0122,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0123,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0124,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0125,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0126,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0127,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0128,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0129,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0130,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0131,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0132,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0133,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0134,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0135,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0136,Manufaktur,Sumatera Utara,Kecil,CLEAN,-
+EMP-0137,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0138,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0139,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0140,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0141,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0142,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0143,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0144,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0145,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0146,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0147,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0148,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0149,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0150,Manufaktur,Sulawesi Selatan,Menengah,PDUK,"Headcount drop ~47% mulai periode 2025-09, TANPA resign record matching"
+EMP-0151,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0152,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0153,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0154,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0155,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0156,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0157,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0158,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0159,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0160,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0161,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0162,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0163,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0164,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0165,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0166,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0167,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0168,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0169,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0170,Manufaktur,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0171,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0172,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0173,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0174,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0175,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0176,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0177,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0178,Konstruksi,DKI Jakarta,Besar,PDUK,"Headcount drop ~31% mulai periode 2025-09, TANPA resign record matching"
+EMP-0179,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0180,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0181,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0182,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0183,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0184,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0185,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0186,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0187,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0188,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0189,Konstruksi,DKI Jakarta,Besar,REMITTANCE_GAP,"Actual remittance ~15% di bawah expected, berulang sejak periode 2025-08"
+EMP-0190,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0191,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0192,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0193,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0194,Konstruksi,DKI Jakarta,Besar,UNDER_REPORTING_WAGE,"DPI ditekan ke ~69% dari median cohort (Konstruksi/DKI Jakarta/Besar, n_peer=33)"
+EMP-0195,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0196,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0197,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0198,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0199,Konstruksi,DKI Jakarta,Besar,PDUK,"Headcount drop ~39% mulai periode 2025-08, TANPA resign record matching"
+EMP-0200,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0201,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0202,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0203,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0204,Konstruksi,DKI Jakarta,Besar,CLEAN,-
+EMP-0205,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0206,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0207,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0208,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0209,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0210,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0211,Konstruksi,Jawa Barat,Kecil,PDUK,"Headcount drop ~38% mulai periode 2025-08, TANPA resign record matching"
+EMP-0212,Konstruksi,Jawa Barat,Kecil,COLD_START,"Registrasi baru (2025-11), hanya 2 periode histori -> harus INSUFFICIENT_DATA di Module A"
+EMP-0213,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0214,Konstruksi,Jawa Barat,Kecil,PDUK,"Headcount drop ~47% mulai periode 2025-07, TANPA resign record matching"
+EMP-0215,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0216,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0217,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0218,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0219,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0220,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0221,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0222,Konstruksi,Jawa Barat,Kecil,UNDER_REPORTING_WAGE,"DPI ditekan ke ~61% dari median cohort (Konstruksi/Jawa Barat/Kecil, n_peer=33)"
+EMP-0223,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0224,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0225,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0226,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0227,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0228,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0229,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0230,Konstruksi,Jawa Barat,Kecil,REMITTANCE_GAP,"Actual remittance ~17% di bawah expected, berulang sejak periode 2025-09"
+EMP-0231,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0232,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0233,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0234,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0235,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0236,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0237,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0238,Konstruksi,Jawa Barat,Kecil,CLEAN,-
+EMP-0239,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0240,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0241,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0242,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0243,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0244,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0245,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0246,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0247,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0248,Konstruksi,Jawa Timur,Menengah,PDUK,"Headcount drop ~46% mulai periode 2025-09, TANPA resign record matching"
+EMP-0249,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0250,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0251,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0252,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0253,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0254,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0255,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0256,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0257,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0258,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0259,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0260,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0261,Konstruksi,Jawa Timur,Menengah,COLD_START,"Registrasi baru (2025-11), hanya 2 periode histori -> harus INSUFFICIENT_DATA di Module A"
+EMP-0262,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0263,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0264,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0265,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0266,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0267,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0268,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0269,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0270,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0271,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0272,Konstruksi,Jawa Timur,Menengah,CLEAN,-
+EMP-0273,Konstruksi,Sumatera Utara,Besar,COLD_START,"Registrasi baru (2025-11), hanya 2 periode histori -> harus INSUFFICIENT_DATA di Module A"
+EMP-0274,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0275,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0276,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0277,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0278,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0279,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0280,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0281,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0282,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0283,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0284,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0285,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0286,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0287,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0288,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0289,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0290,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0291,Konstruksi,Sumatera Utara,Besar,COLD_START,"Registrasi baru (2025-11), hanya 2 periode histori -> harus INSUFFICIENT_DATA di Module A"
+EMP-0292,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0293,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0294,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0295,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0296,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0297,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0298,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0299,Konstruksi,Sumatera Utara,Besar,REMITTANCE_GAP,"Actual remittance ~27% di bawah expected, berulang sejak periode 2025-08"
+EMP-0300,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0301,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0302,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0303,Konstruksi,Sumatera Utara,Besar,PDUK,"Headcount drop ~43% mulai periode 2025-08, TANPA resign record matching"
+EMP-0304,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0305,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0306,Konstruksi,Sumatera Utara,Besar,CLEAN,-
+EMP-0307,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0308,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0309,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0310,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0311,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0312,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0313,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0314,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0315,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0316,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0317,Konstruksi,Sulawesi Selatan,Kecil,PDUK,"Headcount drop ~37% mulai periode 2025-09, TANPA resign record matching"
+EMP-0318,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0319,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0320,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0321,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0322,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0323,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0324,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0325,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0326,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0327,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0328,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0329,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0330,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0331,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0332,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0333,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0334,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0335,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0336,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0337,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0338,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0339,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0340,Konstruksi,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0341,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0342,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0343,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0344,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0345,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0346,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0347,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0348,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0349,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0350,Perdagangan & Ritel,DKI Jakarta,Menengah,REMITTANCE_GAP,"Actual remittance ~19% di bawah expected, berulang sejak periode 2025-06"
+EMP-0351,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0352,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0353,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0354,Perdagangan & Ritel,DKI Jakarta,Menengah,REMITTANCE_GAP,"Actual remittance ~24% di bawah expected, berulang sejak periode 2025-09"
+EMP-0355,Perdagangan & Ritel,DKI Jakarta,Menengah,PDUK,"Headcount drop ~31% mulai periode 2025-07, TANPA resign record matching"
+EMP-0356,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0357,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0358,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0359,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0360,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0361,Perdagangan & Ritel,DKI Jakarta,Menengah,REMITTANCE_GAP,"Actual remittance ~28% di bawah expected, berulang sejak periode 2025-09"
+EMP-0362,Perdagangan & Ritel,DKI Jakarta,Menengah,UNDER_REPORTING_WAGE,"DPI ditekan ke ~68% dari median cohort (Perdagangan & Ritel/DKI Jakarta/Menengah, n_peer=33)"
+EMP-0363,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0364,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0365,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0366,Perdagangan & Ritel,DKI Jakarta,Menengah,COLD_START,"Registrasi baru (2025-11), hanya 2 periode histori -> harus INSUFFICIENT_DATA di Module A"
+EMP-0367,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0368,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0369,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0370,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0371,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0372,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0373,Perdagangan & Ritel,DKI Jakarta,Menengah,UNDER_REPORTING_WAGE,"DPI ditekan ke ~66% dari median cohort (Perdagangan & Ritel/DKI Jakarta/Menengah, n_peer=33)"
+EMP-0374,Perdagangan & Ritel,DKI Jakarta,Menengah,CLEAN,-
+EMP-0375,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0376,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0377,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0378,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0379,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0380,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0381,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0382,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0383,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0384,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0385,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0386,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0387,Perdagangan & Ritel,Jawa Barat,Besar,REMITTANCE_GAP,"Actual remittance ~23% di bawah expected, berulang sejak periode 2025-07"
+EMP-0388,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0389,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0390,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0391,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0392,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0393,Perdagangan & Ritel,Jawa Barat,Besar,REMITTANCE_GAP,"Actual remittance ~27% di bawah expected, berulang sejak periode 2025-06"
+EMP-0394,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0395,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0396,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0397,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0398,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0399,Perdagangan & Ritel,Jawa Barat,Besar,REMITTANCE_GAP,"Actual remittance ~27% di bawah expected, berulang sejak periode 2025-05"
+EMP-0400,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0401,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0402,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0403,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0404,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0405,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0406,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0407,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0408,Perdagangan & Ritel,Jawa Barat,Besar,CLEAN,-
+EMP-0409,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0410,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0411,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0412,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0413,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0414,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0415,Perdagangan & Ritel,Jawa Timur,Kecil,PDUK,"Headcount drop ~50% mulai periode 2025-08, TANPA resign record matching"
+EMP-0416,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0417,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0418,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0419,Perdagangan & Ritel,Jawa Timur,Kecil,PDUK,"Headcount drop ~49% mulai periode 2025-06, TANPA resign record matching"
+EMP-0420,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0421,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0422,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0423,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0424,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0425,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0426,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0427,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0428,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0429,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0430,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0431,Perdagangan & Ritel,Jawa Timur,Kecil,REMITTANCE_GAP,"Actual remittance ~20% di bawah expected, berulang sejak periode 2025-09"
+EMP-0432,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0433,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0434,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0435,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0436,Perdagangan & Ritel,Jawa Timur,Kecil,PDUK,"Headcount drop ~52% mulai periode 2025-07, TANPA resign record matching"
+EMP-0437,Perdagangan & Ritel,Jawa Timur,Kecil,PDUK,"Headcount drop ~37% mulai periode 2025-08, TANPA resign record matching"
+EMP-0438,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0439,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0440,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN_MUTASI_SAH,"Headcount drop ~45% di periode 2025-06, DENGAN resign record matching (10 orang) -> true-negative test untuk confounder-handling Module A"
+EMP-0441,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0442,Perdagangan & Ritel,Jawa Timur,Kecil,CLEAN,-
+EMP-0443,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0444,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0445,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0446,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0447,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0448,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0449,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0450,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0451,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN_MUTASI_SAH,"Headcount drop ~54% di periode 2025-09, DENGAN resign record matching (66 orang) -> true-negative test untuk confounder-handling Module A"
+EMP-0452,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0453,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0454,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0455,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0456,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0457,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0458,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0459,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0460,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0461,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0462,Perdagangan & Ritel,Sumatera Utara,Menengah,REMITTANCE_GAP,"Actual remittance ~30% di bawah expected, berulang sejak periode 2025-05"
+EMP-0463,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0464,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0465,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0466,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0467,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0468,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0469,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0470,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0471,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0472,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0473,Perdagangan & Ritel,Sumatera Utara,Menengah,UNDER_REPORTING_WAGE,"DPI ditekan ke ~62% dari median cohort (Perdagangan & Ritel/Sumatera Utara/Menengah, n_peer=33)"
+EMP-0474,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0475,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0476,Perdagangan & Ritel,Sumatera Utara,Menengah,CLEAN,-
+EMP-0477,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0478,Perdagangan & Ritel,Sulawesi Selatan,Besar,PDUK,"Headcount drop ~47% mulai periode 2025-06, TANPA resign record matching"
+EMP-0479,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0480,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0481,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0482,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0483,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0484,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0485,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0486,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0487,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0488,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0489,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0490,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0491,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0492,Perdagangan & Ritel,Sulawesi Selatan,Besar,PDUK,"Headcount drop ~48% mulai periode 2025-06, TANPA resign record matching"
+EMP-0493,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0494,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0495,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0496,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0497,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0498,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0499,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0500,Perdagangan & Ritel,Sulawesi Selatan,Besar,PDUK,"Headcount drop ~52% mulai periode 2025-09, TANPA resign record matching"
+EMP-0501,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0502,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0503,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0504,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0505,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0506,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0507,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0508,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN_MUTASI_SAH,"Headcount drop ~41% di periode 2025-08, DENGAN resign record matching (358 orang) -> true-negative test untuk confounder-handling Module A"
+EMP-0509,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0510,Perdagangan & Ritel,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0511,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0512,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0513,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0514,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0515,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0516,Jasa Keuangan,DKI Jakarta,Kecil,UNDER_REPORTING_WAGE,"DPI ditekan ke ~61% dari median cohort (Jasa Keuangan/DKI Jakarta/Kecil, n_peer=33)"
+EMP-0517,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0518,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0519,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0520,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0521,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0522,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0523,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0524,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0525,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0526,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0527,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0528,Jasa Keuangan,DKI Jakarta,Kecil,UNDER_REPORTING_WAGE,"DPI ditekan ke ~72% dari median cohort (Jasa Keuangan/DKI Jakarta/Kecil, n_peer=33)"
+EMP-0529,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0530,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0531,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0532,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0533,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0534,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0535,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0536,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0537,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0538,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0539,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0540,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0541,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0542,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0543,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0544,Jasa Keuangan,DKI Jakarta,Kecil,CLEAN,-
+EMP-0545,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0546,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0547,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0548,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0549,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0550,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0551,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0552,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0553,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0554,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0555,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0556,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0557,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0558,Jasa Keuangan,Jawa Barat,Menengah,UNDER_REPORTING_WAGE,"DPI ditekan ke ~71% dari median cohort (Jasa Keuangan/Jawa Barat/Menengah, n_peer=33)"
+EMP-0559,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0560,Jasa Keuangan,Jawa Barat,Menengah,UNDER_REPORTING_WAGE,"DPI ditekan ke ~62% dari median cohort (Jasa Keuangan/Jawa Barat/Menengah, n_peer=33)"
+EMP-0561,Jasa Keuangan,Jawa Barat,Menengah,REMITTANCE_GAP,"Actual remittance ~17% di bawah expected, berulang sejak periode 2025-09"
+EMP-0562,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0563,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0564,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0565,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0566,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0567,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0568,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0569,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0570,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0571,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0572,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0573,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0574,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0575,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0576,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0577,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0578,Jasa Keuangan,Jawa Barat,Menengah,CLEAN,-
+EMP-0579,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0580,Jasa Keuangan,Jawa Timur,Besar,REMITTANCE_GAP,"Actual remittance ~30% di bawah expected, berulang sejak periode 2025-08"
+EMP-0581,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0582,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0583,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0584,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0585,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0586,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0587,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0588,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0589,Jasa Keuangan,Jawa Timur,Besar,UNDER_REPORTING_WAGE,"DPI ditekan ke ~68% dari median cohort (Jasa Keuangan/Jawa Timur/Besar, n_peer=33)"
+EMP-0590,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0591,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0592,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0593,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0594,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0595,Jasa Keuangan,Jawa Timur,Besar,REMITTANCE_GAP,"Actual remittance ~21% di bawah expected, berulang sejak periode 2025-06"
+EMP-0596,Jasa Keuangan,Jawa Timur,Besar,UNDER_REPORTING_WAGE,"DPI ditekan ke ~72% dari median cohort (Jasa Keuangan/Jawa Timur/Besar, n_peer=33)"
+EMP-0597,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0598,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0599,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0600,Jasa Keuangan,Jawa Timur,Besar,PDUK,"Headcount drop ~41% mulai periode 2025-06, TANPA resign record matching"
+EMP-0601,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0602,Jasa Keuangan,Jawa Timur,Besar,UNDER_REPORTING_WAGE,"DPI ditekan ke ~69% dari median cohort (Jasa Keuangan/Jawa Timur/Besar, n_peer=33)"
+EMP-0603,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0604,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0605,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0606,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0607,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0608,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0609,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0610,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0611,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0612,Jasa Keuangan,Jawa Timur,Besar,CLEAN,-
+EMP-0613,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0614,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0615,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0616,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0617,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0618,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0619,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0620,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0621,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0622,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0623,Jasa Keuangan,Sumatera Utara,Kecil,UNDER_REPORTING_WAGE,"DPI ditekan ke ~63% dari median cohort (Jasa Keuangan/Sumatera Utara/Kecil, n_peer=33)"
+EMP-0624,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0625,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0626,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0627,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0628,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0629,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0630,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0631,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0632,Jasa Keuangan,Sumatera Utara,Kecil,PDUK,"Headcount drop ~38% mulai periode 2025-09, TANPA resign record matching"
+EMP-0633,Jasa Keuangan,Sumatera Utara,Kecil,UNDER_REPORTING_WAGE,"DPI ditekan ke ~72% dari median cohort (Jasa Keuangan/Sumatera Utara/Kecil, n_peer=33)"
+EMP-0634,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0635,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0636,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0637,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0638,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0639,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0640,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0641,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0642,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0643,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0644,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0645,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0646,Jasa Keuangan,Sumatera Utara,Kecil,CLEAN,-
+EMP-0647,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0648,Jasa Keuangan,Sulawesi Selatan,Menengah,REMITTANCE_GAP,"Actual remittance ~27% di bawah expected, berulang sejak periode 2025-08"
+EMP-0649,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0650,Jasa Keuangan,Sulawesi Selatan,Menengah,PDUK,"Headcount drop ~37% mulai periode 2025-06, TANPA resign record matching"
+EMP-0651,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0652,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0653,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0654,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0655,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0656,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0657,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0658,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0659,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0660,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0661,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0662,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0663,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0664,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0665,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0666,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0667,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0668,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0669,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0670,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0671,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0672,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0673,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0674,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0675,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0676,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0677,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0678,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0679,Jasa Keuangan,Sulawesi Selatan,Menengah,REMITTANCE_GAP,"Actual remittance ~29% di bawah expected, berulang sejak periode 2025-10"
+EMP-0680,Jasa Keuangan,Sulawesi Selatan,Menengah,CLEAN,-
+EMP-0681,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0682,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0683,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0684,Teknologi & Digital,DKI Jakarta,Besar,REMITTANCE_GAP,"Actual remittance ~22% di bawah expected, berulang sejak periode 2025-08"
+EMP-0685,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0686,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0687,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0688,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0689,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0690,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0691,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0692,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0693,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0694,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0695,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0696,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0697,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0698,Teknologi & Digital,DKI Jakarta,Besar,REMITTANCE_GAP,"Actual remittance ~25% di bawah expected, berulang sejak periode 2025-09"
+EMP-0699,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0700,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0701,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0702,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0703,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0704,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0705,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0706,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0707,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0708,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0709,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0710,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0711,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0712,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0713,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0714,Teknologi & Digital,DKI Jakarta,Besar,CLEAN,-
+EMP-0715,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0716,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0717,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0718,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0719,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0720,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0721,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0722,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0723,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0724,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0725,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0726,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0727,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0728,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0729,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0730,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0731,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0732,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0733,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0734,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0735,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0736,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0737,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0738,Teknologi & Digital,Jawa Barat,Kecil,PDUK,"Headcount drop ~51% mulai periode 2025-07, TANPA resign record matching"
+EMP-0739,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0740,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0741,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0742,Teknologi & Digital,Jawa Barat,Kecil,CLEAN_MUTASI_SAH,"Headcount drop ~49% di periode 2025-07, DENGAN resign record matching (11 orang) -> true-negative test untuk confounder-handling Module A"
+EMP-0743,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0744,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0745,Teknologi & Digital,Jawa Barat,Kecil,CLEAN_MUTASI_SAH,"Headcount drop ~44% di periode 2025-06, DENGAN resign record matching (18 orang) -> true-negative test untuk confounder-handling Module A"
+EMP-0746,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0747,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0748,Teknologi & Digital,Jawa Barat,Kecil,CLEAN,-
+EMP-0749,Teknologi & Digital,Jawa Timur,Menengah,UNDER_REPORTING_WAGE,"DPI ditekan ke ~62% dari median cohort (Teknologi & Digital/Jawa Timur/Menengah, n_peer=33)"
+EMP-0750,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0751,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0752,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0753,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0754,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0755,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0756,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0757,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0758,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0759,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0760,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0761,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0762,Teknologi & Digital,Jawa Timur,Menengah,COLD_START,"Registrasi baru (2025-11), hanya 2 periode histori -> harus INSUFFICIENT_DATA di Module A"
+EMP-0763,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0764,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0765,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0766,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0767,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0768,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0769,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0770,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0771,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0772,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0773,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0774,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0775,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0776,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0777,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0778,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0779,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0780,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0781,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0782,Teknologi & Digital,Jawa Timur,Menengah,CLEAN,-
+EMP-0783,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0784,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0785,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0786,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0787,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0788,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0789,Teknologi & Digital,Sumatera Utara,Besar,COLD_START,"Registrasi baru (2025-11), hanya 2 periode histori -> harus INSUFFICIENT_DATA di Module A"
+EMP-0790,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0791,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0792,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0793,Teknologi & Digital,Sumatera Utara,Besar,COLD_START,"Registrasi baru (2025-11), hanya 2 periode histori -> harus INSUFFICIENT_DATA di Module A"
+EMP-0794,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0795,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0796,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0797,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0798,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0799,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0800,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0801,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0802,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0803,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0804,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0805,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0806,Teknologi & Digital,Sumatera Utara,Besar,PDUK,"Headcount drop ~47% mulai periode 2025-08, TANPA resign record matching"
+EMP-0807,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0808,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0809,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0810,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0811,Teknologi & Digital,Sumatera Utara,Besar,COLD_START,"Registrasi baru (2025-11), hanya 2 periode histori -> harus INSUFFICIENT_DATA di Module A"
+EMP-0812,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0813,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0814,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0815,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0816,Teknologi & Digital,Sumatera Utara,Besar,CLEAN,-
+EMP-0817,Teknologi & Digital,Sulawesi Selatan,Kecil,UNDER_REPORTING_WAGE,"DPI ditekan ke ~64% dari median cohort (Teknologi & Digital/Sulawesi Selatan/Kecil, n_peer=33)"
+EMP-0818,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0819,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN_MUTASI_SAH,"Headcount drop ~33% di periode 2025-06, DENGAN resign record matching (18 orang) -> true-negative test untuk confounder-handling Module A"
+EMP-0820,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN_MUTASI_SAH,"Headcount drop ~40% di periode 2025-08, DENGAN resign record matching (22 orang) -> true-negative test untuk confounder-handling Module A"
+EMP-0821,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0822,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0823,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0824,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0825,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0826,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0827,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0828,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0829,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0830,Teknologi & Digital,Sulawesi Selatan,Kecil,UNDER_REPORTING_WAGE,"DPI ditekan ke ~69% dari median cohort (Teknologi & Digital/Sulawesi Selatan/Kecil, n_peer=33)"
+EMP-0831,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0832,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0833,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0834,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0835,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0836,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0837,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0838,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0839,Teknologi & Digital,Sulawesi Selatan,Kecil,COLD_START,"Registrasi baru (2025-11), hanya 2 periode histori -> harus INSUFFICIENT_DATA di Module A"
+EMP-0840,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0841,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0842,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0843,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0844,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0845,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0846,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0847,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0848,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0849,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0850,Teknologi & Digital,Sulawesi Selatan,Kecil,CLEAN,-
+EMP-0851,Perkebunan & Agribisnis,DKI Jakarta,Menengah,UNDER_REPORTING_WAGE,"DPI ditekan ke ~70% dari median cohort (Perkebunan & Agribisnis/DKI Jakarta/Menengah, n_peer=33)"
+EMP-0852,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0853,Perkebunan & Agribisnis,DKI Jakarta,Menengah,UNDER_REPORTING_WAGE,"DPI ditekan ke ~67% dari median cohort (Perkebunan & Agribisnis/DKI Jakarta/Menengah, n_peer=33)"
+EMP-0854,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0855,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0856,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0857,Perkebunan & Agribisnis,DKI Jakarta,Menengah,PDUK,"Headcount drop ~45% mulai periode 2025-09, TANPA resign record matching"
+EMP-0858,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0859,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0860,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0861,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0862,Perkebunan & Agribisnis,DKI Jakarta,Menengah,COLD_START,"Registrasi baru (2025-11), hanya 2 periode histori -> harus INSUFFICIENT_DATA di Module A"
+EMP-0863,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0864,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0865,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0866,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0867,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0868,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0869,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0870,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0871,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0872,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0873,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0874,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0875,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0876,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0877,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0878,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0879,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0880,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0881,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0882,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0883,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0884,Perkebunan & Agribisnis,DKI Jakarta,Menengah,CLEAN,-
+EMP-0885,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0886,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0887,Perkebunan & Agribisnis,Jawa Barat,Besar,REMITTANCE_GAP,"Actual remittance ~18% di bawah expected, berulang sejak periode 2025-10"
+EMP-0888,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0889,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0890,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0891,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0892,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0893,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0894,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0895,Perkebunan & Agribisnis,Jawa Barat,Besar,UNDER_REPORTING_WAGE,"DPI ditekan ke ~63% dari median cohort (Perkebunan & Agribisnis/Jawa Barat/Besar, n_peer=33)"
+EMP-0896,Perkebunan & Agribisnis,Jawa Barat,Besar,UNDER_REPORTING_WAGE,"DPI ditekan ke ~67% dari median cohort (Perkebunan & Agribisnis/Jawa Barat/Besar, n_peer=33)"
+EMP-0897,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0898,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0899,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0900,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0901,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0902,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0903,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0904,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0905,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0906,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0907,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0908,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0909,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0910,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0911,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0912,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0913,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0914,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0915,Perkebunan & Agribisnis,Jawa Barat,Besar,REMITTANCE_GAP,"Actual remittance ~18% di bawah expected, berulang sejak periode 2025-10"
+EMP-0916,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0917,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0918,Perkebunan & Agribisnis,Jawa Barat,Besar,CLEAN,-
+EMP-0919,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0920,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0921,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0922,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0923,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0924,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0925,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0926,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0927,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0928,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0929,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0930,Perkebunan & Agribisnis,Jawa Timur,Kecil,COLD_START,"Registrasi baru (2025-11), hanya 2 periode histori -> harus INSUFFICIENT_DATA di Module A"
+EMP-0931,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0932,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0933,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0934,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0935,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0936,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0937,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0938,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0939,Perkebunan & Agribisnis,Jawa Timur,Kecil,UNDER_REPORTING_WAGE,"DPI ditekan ke ~62% dari median cohort (Perkebunan & Agribisnis/Jawa Timur/Kecil, n_peer=33)"
+EMP-0940,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0941,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0942,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0943,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0944,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0945,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0946,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0947,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0948,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0949,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0950,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0951,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0952,Perkebunan & Agribisnis,Jawa Timur,Kecil,CLEAN,-
+EMP-0953,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0954,Perkebunan & Agribisnis,Sumatera Utara,Menengah,UNDER_REPORTING_WAGE,"DPI ditekan ke ~72% dari median cohort (Perkebunan & Agribisnis/Sumatera Utara/Menengah, n_peer=33)"
+EMP-0955,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0956,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0957,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0958,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0959,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0960,Perkebunan & Agribisnis,Sumatera Utara,Menengah,PDUK,"Headcount drop ~31% mulai periode 2025-08, TANPA resign record matching"
+EMP-0961,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0962,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0963,Perkebunan & Agribisnis,Sumatera Utara,Menengah,PDUK,"Headcount drop ~34% mulai periode 2025-06, TANPA resign record matching"
+EMP-0964,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0965,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0966,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0967,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0968,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0969,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0970,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0971,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0972,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0973,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0974,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0975,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0976,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0977,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0978,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0979,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0980,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0981,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0982,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0983,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0984,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0985,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0986,Perkebunan & Agribisnis,Sumatera Utara,Menengah,CLEAN,-
+EMP-0987,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0988,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0989,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0990,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0991,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0992,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0993,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0994,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0995,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0996,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0997,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0998,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-0999,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1000,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1001,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1002,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1003,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1004,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1005,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1006,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1007,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1008,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1009,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,COLD_START,"Registrasi baru (2025-11), hanya 2 periode histori -> harus INSUFFICIENT_DATA di Module A"
+EMP-1010,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1011,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1012,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1013,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1014,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1015,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1016,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1017,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN_MUTASI_SAH,"Headcount drop ~36% di periode 2025-08, DENGAN resign record matching (242 orang) -> true-negative test untuk confounder-handling Module A"
+EMP-1018,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1019,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
+EMP-1020,Perkebunan & Agribisnis,Sulawesi Selatan,Besar,CLEAN,-
