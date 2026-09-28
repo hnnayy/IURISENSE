@@ -5,6 +5,9 @@ import pandas as pd
 import streamlit as st
 import json
 
+from garden import render_garden
+from workspace import render_workspace
+
 
 st.set_page_config(page_title="ECRS | Employer Risk Console", page_icon="◈", layout="wide")
 ROOT = Path(__file__).resolve().parents[1]
@@ -126,6 +129,11 @@ def load_wave2_scores():
         companies[f"score_{module}"] = companies["scores"].map(lambda value: value.get(module) if isinstance(value, dict) else np.nan)
         companies[f"status_{module}"] = companies["status"].map(lambda value: value.get(module) if isinstance(value, dict) else "NO_DATA")
         companies[f"module_{module.lower()}"] = companies[f"status_{module}"].eq("FLAGGED")
+    drivers = companies["explanation"].map(lambda value: {item["module"]: item for item in value.get("drivers", [])} if isinstance(value, dict) else {})
+    for module in ["A", "B", "C"]:
+        metrics = pd.json_normalize(drivers.map(lambda value: value.get(module, {}).get("metrics") or {}).tolist())
+        companies = pd.concat([companies, metrics.add_prefix(f"{module}_")], axis=1)
+        companies[f"reason_{module}"] = drivers.map(lambda value: value.get(module, {}).get("text"))
     companies["risk_score"] = companies["composite_score"].fillna(0).mul(100).round().astype(int)
     companies["status"] = companies["band"]
     return companies, payload.get("meta", {}), path
@@ -162,10 +170,9 @@ def main():
         wave2_columns = ["risk_score", "status", "band", "composite_score", "coverage",
                          "max_module_score", "score_A", "score_B", "score_C", "status_A", "status_B", "status_C",
                          "module_a", "module_b", "module_c"]
+        wave2_columns += [column for column in wave2_scores.columns if column[:2] in ("A_", "B_", "C_") or column.startswith("reason_")]
         scores = scores.drop(columns=wave2_columns, errors="ignore").merge(
-            wave2_scores[["employer_id", "risk_score", "status", "band", "composite_score", "coverage",
-                          "max_module_score", "score_A", "score_B", "score_C", "status_A", "status_B", "status_C",
-                          "module_a", "module_b", "module_c"]], on="employer_id", how="left")
+            wave2_scores[["employer_id", *wave2_columns]], on="employer_id", how="left")
         data = data.drop(columns=["risk_score", "status"], errors="ignore").merge(
             scores[["employer_id", "risk_score", "status"]], on="employer_id", how="left")
     st.sidebar.markdown("<div class='eyebrow'>ECRS / WAVE 1</div><h2>Risk Console</h2>", unsafe_allow_html=True)
@@ -174,8 +181,15 @@ def main():
         st.sidebar.info("Mode demo aktif. Letakkan enam CSV Wave 0 di data/dummy untuk memakai data engine.")
     if wave2_active:
         st.sidebar.success(f"Wave 2 aktif: {wave2_path.parent.name}/{wave2_path.name}")
+    view = st.sidebar.radio("Tampilan", ["Dashboard", "Garden View", "Workspace"])
     sectors = st.sidebar.multiselect("Sektor", sorted(data.sektor_usaha.unique()), default=sorted(data.sektor_usaha.unique()))
     regions = st.sidebar.multiselect("Wilayah", sorted(data.wilayah.unique()), default=sorted(data.wilayah.unique()))
+    if view == "Garden View":
+        render_garden(scores[scores.sektor_usaha.isin(sectors) & scores.wilayah.isin(regions)], wave2_scores if wave2_active else None)
+        return
+    if view == "Workspace":
+        render_workspace(scores[scores.sektor_usaha.isin(sectors) & scores.wilayah.isin(regions)], wave2_meta if wave2_active else None)
+        return
     status_options = ["Tinggi", "Sedang", "Rendah", "Belum bisa dinilai"] if wave2_active else ["PRIORITAS TINGGI", "PERLU DITINJAU", "NORMAL"]
     statuses = st.sidebar.multiselect("Status risiko", status_options, default=status_options[:2])
     filtered_scores = scores[scores.sektor_usaha.isin(sectors) & scores.wilayah.isin(regions)]
@@ -188,7 +202,10 @@ def main():
     with cols[0]: metric("Employer dipantau", f"{len(filtered_scores):,}", "setelah filter aktif")
     high_status = "Tinggi" if wave2_active else "PRIORITAS TINGGI"
     with cols[1]: metric("Prioritas tinggi", f"{int((filtered_scores.status == high_status).sum()):,}", "berdasarkan composite score")
-    with cols[2]: metric("Potensi gap kontribusi", rupiah(visible_data.expected_contribution.sub(visible_data.actual_remittance).clip(lower=0).sum()), "estimasi dari periode tampil")
+    if wave2_active:
+        with cols[2]: metric("Potensi gap kontribusi", rupiah(filtered_scores.C_total_shortfall.fillna(0).sum()), "total kekurangan setor · Module C")
+    else:
+        with cols[2]: metric("Potensi gap kontribusi", rupiah(visible_data.expected_contribution.sub(visible_data.actual_remittance).clip(lower=0).sum()), "estimasi dari periode tampil")
     with cols[3]: metric("Data coverage", f"{visible_data.periode.nunique()} bln", "periode observasi terakhir")
     st.markdown("<div class='callout'><strong>Catatan pemeriksa:</strong> skor adalah prioritas investigasi, bukan vonis. Buka tabel di bawah untuk melihat sinyal penyusunnya dan alasan yang dapat ditindaklanjuti.</div>", unsafe_allow_html=True)
     tab_overview, tab_a, tab_b, tab_c = st.tabs(["Ringkasan risiko", "A · Headcount", "B · Peer wage", "C · Reconciliation"])
@@ -196,7 +213,7 @@ def main():
         left, right = st.columns([1.05, .95])
         with left:
             st.subheader("Antrian pemeriksaan")
-            table = visible_scores.sort_values(["risk_score", "max_gap"], ascending=False).copy()
+            table = visible_scores.sort_values(["risk_score", "composite_score" if wave2_active else "max_gap"], ascending=False).copy()
             table["Sinyal"] = table.apply(lambda row: " · ".join([name for name, active in [("A", row.module_a), ("B", row.module_b), ("C", row.module_c)] if active]) or "-", axis=1)
             display_columns = ["employer_id", "status", "risk_score", "Sinyal", "anomaly_type"]
             if wave2_active:
@@ -215,18 +232,49 @@ def main():
             chart_id = st.selectbox("Pilih employer", choices, key="a")
             view = visible_data[visible_data.employer_id.eq(chart_id)].set_index("periode")
             st.line_chart(view[["jumlah_peserta_aktif", "jumlah_keluar"]], color=["#173c35", "#f27d52"], height=300)
-            st.dataframe(visible_scores[visible_scores.employer_id.eq(chart_id)][["employer_id", "max_drop", "resign", "periods", "module_a"]], width="stretch", hide_index=True)
+            selected = visible_scores[visible_scores.employer_id.eq(chart_id)]
+            if wave2_active:
+                st.dataframe(selected[["employer_id", "status_A", "score_A", "A_worst_period", "A_hc_before", "A_hc_after", "A_drop_pct", "A_resign_recorded", "A_z_score"]].rename(columns={
+                    "employer_id": "Employer", "status_A": "Status", "score_A": "Skor A", "A_worst_period": "Periode terburuk", "A_hc_before": "HC sebelum",
+                    "A_hc_after": "HC sesudah", "A_drop_pct": "Turun", "A_resign_recorded": "Resign tercatat", "A_z_score": "Z-score"}),
+                    width="stretch", hide_index=True, column_config={"Turun": st.column_config.NumberColumn(format="percent")})
+                if selected.reason_A.notna().any():
+                    st.info(selected.reason_A.iloc[0])
+            else:
+                st.dataframe(selected[["employer_id", "max_drop", "resign", "periods", "module_a"]], width="stretch", hide_index=True)
     with tab_b:
         st.subheader("Peer-group wage benchmarking")
         st.caption("DPI yang konsisten jauh di bawah median cohort sektor, wilayah, dan skala yang sama menjadi sinyal under-reporting.")
         st.line_chart(visible_data.groupby("periode", as_index=True)["rata2_DPI"].median(), color="#e6a23c", height=280)
-        st.dataframe(visible_scores.sort_values("min_peer_ratio")[["employer_id", "median_wage", "min_peer_ratio", "module_b"]].head(15), width="stretch", hide_index=True)
+        if wave2_active:
+            st.dataframe(visible_scores.sort_values("score_B", ascending=False)[["employer_id", "status_B", "score_B", "B_wage_median", "B_cohort_median_wage", "B_pct_vs_median", "B_z_median", "B_cohort_key", "reason_B"]].head(15).rename(columns={
+                "employer_id": "Employer", "status_B": "Status", "score_B": "Skor B", "B_wage_median": "Median DPI", "B_cohort_median_wage": "Median cohort",
+                "B_pct_vs_median": "vs cohort", "B_z_median": "Z-score", "B_cohort_key": "Cohort", "reason_B": "Alasan engine"}),
+                width="stretch", hide_index=True, column_config={"vs cohort": st.column_config.NumberColumn(format="percent"),
+                                                               "Median DPI": st.column_config.NumberColumn(format="localized"), "Median cohort": st.column_config.NumberColumn(format="localized")})
+        else:
+            st.dataframe(visible_scores.sort_values("min_peer_ratio")[["employer_id", "median_wage", "min_peer_ratio", "module_b"]].head(15), width="stretch", hide_index=True)
     with tab_c:
         st.subheader("Contribution reconciliation")
-        st.caption("Actual remittance dibandingkan dengan expected contribution = DPI × headcount × 4%.")
+        config_c = wave2_meta.get("config", {}).get("C", {}) if wave2_active else {}
+        if config_c:
+            if "kolom" in wave2_meta.get("remittance_expected_source", ""):
+                formula = "expected contribution dari kolom data (simulasi Wave 0: DPI × headcount × 4% porsi pemberi kerja)"
+            else:
+                formula = f"expected contribution = DPI (maks {rupiah(config_c.get('WAGE_CAP', 0))}) × headcount × {config_c.get('CONTRIB_RATE', 0):.0%}"
+            st.caption(f"Actual remittance dibandingkan dengan {formula}. "
+                       f"Flag jika kurang setor > {config_c.get('TOL_PCT', 0):.0%} selama ≥ {config_c.get('MIN_CONSECUTIVE', 0)} bulan berturut-turut.")
+        else:
+            st.caption("Actual remittance dibandingkan dengan expected contribution = DPI × headcount × 4%.")
         monthly = visible_data.groupby("periode")[["expected_contribution", "actual_remittance"]].sum()
         st.line_chart(monthly, color=["#173c35", "#f27d52"], height=280)
-        st.dataframe(visible_scores.sort_values("max_gap", ascending=False)[["employer_id", "max_gap", "avg_gap", "module_c"]].head(15), width="stretch", hide_index=True)
+        if wave2_active:
+            st.dataframe(visible_scores.sort_values(["score_C", "C_total_shortfall"], ascending=False)[["employer_id", "status_C", "score_C", "C_longest_run", "C_run_start", "C_run_end", "C_median_gap_pct", "C_total_shortfall", "reason_C"]].head(15).rename(columns={
+                "employer_id": "Employer", "status_C": "Status", "score_C": "Skor C", "C_longest_run": "Bulan berturut", "C_run_start": "Mulai", "C_run_end": "Sampai",
+                "C_median_gap_pct": "Median gap", "C_total_shortfall": "Total kekurangan", "reason_C": "Alasan engine"}),
+                width="stretch", hide_index=True, column_config={"Median gap": st.column_config.NumberColumn(format="percent"), "Total kekurangan": st.column_config.NumberColumn(format="localized")})
+        else:
+            st.dataframe(visible_scores.sort_values("max_gap", ascending=False)[["employer_id", "max_gap", "avg_gap", "module_c"]].head(15), width="stretch", hide_index=True)
 
 
 if __name__ == "__main__":
